@@ -1,0 +1,283 @@
+[
+    {
+        "name": "Overworld (Act 3)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Outer Steppes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 4)/Outer Steppes/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 4)/Outer Steppes/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 4)/Outer Steppes/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 4)/Outer Steppes/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 4)/Outer Steppes/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 4)/Outer Steppes/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 744,
+                        "y": 862
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Despair",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 4)/Plains of Despair/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 4)/Plains of Despair/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 4)/Plains of Despair/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 4)/Plains of Despair/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 4)/Plains of Despair/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 4)/Plains of Despair/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 700,
+                        "y": 925
+                    }
+                ]
+            },
+            {
+                "name": "City of the Damned",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 4)/City of the Damned/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 4)/City of the Damned/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 4)/City of the Damned/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 4)/City of the Damned/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 4)/City of the Damned/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 4)/City of the Damned/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 4)/City of the Damned/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 4)/City of the Damned/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 4)/City of the Damned/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 639,
+                        "y": 866
+                    }
+                ]
+            },
+            {
+                "name": "River of Flame",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 4)/River of Flame/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 4)/River of Flame/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 4)/River of Flame/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 4)/River of Flame/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 4)/River of Flame/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 4)/River of Flame/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 4)/River of Flame/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 4)/River of Flame/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 4)/River of Flame/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 690,
+                        "y": 807
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Sanctuary",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 4)/Chaos Sanctuary/"
+                    },
+                    {
+                        "name": "Infector",
+                        "ref": "Hunt (Act 4)/Infector/"
+                    },
+                    {
+                        "name": "Lord De Seis",
+                        "ref": "Hunt (Act 4)/Lord De Seis/"
+                    },
+                    {
+                        "name": "Grand Vizier",
+                        "ref": "Hunt (Act 4)/Grand Vizier/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 4)/Chaos Sanctuary/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 4)/Chaos Sanctuary/Nightmare"
+                    },
+                    {
+                        "name": "Infector (Nightmare)",
+                        "ref": "Hunt (Act 4)/Infector/Nightmare"
+                    },
+                    {
+                        "name": "Lord De Seis (Nightmare)",
+                        "ref": "Hunt (Act 4)/Lord De Seis/Nightmare"
+                    },
+                    {
+                        "name": "Grand Vizier (Nightmare)",
+                        "ref": "Hunt (Act 4)/Grand Vizier/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 4)/Chaos Sanctuary/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 4)/Chaos Sanctuary/Hell"
+                    },
+                    {
+                        "name": "Infector (Hell)",
+                        "ref": "Hunt (Act 4)/Infector/Hell"
+                    },
+                    {
+                        "name": "Lord De Seis (Hell)",
+                        "ref": "Hunt (Act 4)/Lord De Seis/Hell"
+                    },
+                    {
+                        "name": "Grand Vizier (Hell)",
+                        "ref": "Hunt (Act 4)/Grand Vizier/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 4)/Chaos Sanctuary/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 651,
+                        "y": 754
+                    }
+                ]
+            }
+        ]
+    }
+]

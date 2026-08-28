@@ -1,0 +1,1554 @@
+[
+    {
+        "name": "Overworld (Act 1)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Blood Moor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Blood Moor/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Blood Moor/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Blood Moor/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Blood Moor/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Blood Moor/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Blood Moor/Hell"
+                    }
+                    
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Cold Plains",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Cold Plains/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Cold Plains/"
+                    },
+                    {
+                        "name": "Bishibosh",
+                        "ref": "Hunt (Act 1)/Bishibosh/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Cold Plains/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Cold Plains/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Cold Plains/Nightmare"
+                    },
+                    {
+                        "name": "Bishibosh (Nightmare)",
+                        "ref": "Hunt (Act 1)/Bishibosh/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Cold Plains/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Cold Plains/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Cold Plains/Hell"
+                    },
+                    {
+                        "name": "Bishibosh (Hell)",
+                        "ref": "Hunt (Act 1)/Bishibosh/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Cold Plains/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Stony Field",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Stony Field/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Stony Field/"
+                    },
+                    {
+                        "name": "Rakanishu",
+                        "ref": "Hunt (Act 1)/Rakanishu/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Stony Field/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Stony Field/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Stony Field/Nightmare"
+                    },
+                    {
+                        "name": "Rakanishu (Nightmare)",
+                        "ref": "Hunt (Act 1)/Rakanishu/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Stony Field/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Stony Field/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Stony Field/Hell"
+                    },
+                    {
+                        "name": "Rakanishu (Hell)",
+                        "ref": "Hunt (Act 1)/Rakanishu/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Stony Field/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dark Wood",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Dark Wood/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Dark Wood/"
+                    },
+                    {
+                        "name": "Treehead WoodFist",
+                        "ref": "Hunt (Act 1)/Treehead WoodFist/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Dark Wood/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Dark Wood/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Dark Wood/Nightmare"
+                    },
+                    {
+                        "name": "Treehead WoodFist (Nightmare)",
+                        "ref": "Hunt (Act 1)/Treehead WoodFist/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Dark Wood/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Dark Wood/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Dark Wood/Hell"
+                    },
+                    {
+                        "name": "Treehead WoodFist (Hell)",
+                        "ref": "Hunt (Act 1)/Treehead WoodFist/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Dark Wood/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Black Marsh",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Black Marsh/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Black Marsh/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Black Marsh/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Black Marsh/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Black Marsh/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Black Marsh/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Black Marsh/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Black Marsh/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Black Marsh/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tamoe Highland",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Tamoe Highland/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tamoe Highland/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Tamoe Highland/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tamoe Highland/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Tamoe Highland/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tamoe Highland/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Den of Evil",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Den of Evil/"
+                    },
+                    {
+                        "name": "Corpsefire",
+                        "ref": "Hunt (Act 1)/Corpsefire/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Den of Evil/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Den of Evil/Nightmare"
+                    },
+                    {
+                        "name": "Corpsefire (Nightmare)",
+                        "ref": "Hunt (Act 1)/Corpsefire/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Den of Evil/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Den of Evil/Hell"
+                    },
+                    {
+                        "name": "Corpsefire (Hell)",
+                        "ref": "Hunt (Act 1)/Corpsefire/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Den of Evil/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Cave Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Coldcrow",
+                        "ref": "Hunt (Act 1)/Coldcrow/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Cave Level 1/"
+                    },
+
+                    {
+                        "name": "Coldcrow (Nightmare)",
+                        "ref": "Hunt (Act 1)/Coldcrow/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Cave Level 1/Nightmare"
+                    },
+
+                    {
+                        "name": "Coldcrow (Hell)",
+                        "ref": "Hunt (Act 1)/Coldcrow/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Cave Level 1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Cave Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Cave Level 2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Cave Level 2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Cave Level 2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Underground Passage Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Underground Passage/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Underground Passage/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Underground Passage/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Underground Passage Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Underground Passage/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Underground Passage/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Underground Passage/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Burial Grounds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Burial Grounds/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Burial Grounds/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Burial Grounds/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crypt",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bonebreaker",
+                        "ref": "Hunt (Act 1)/Bonebreaker/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/The Crypt/"
+                    },
+
+                    {
+                        "name": "Bonebreaker (Nightmare)",
+                        "ref": "Hunt (Act 1)/Bonebreaker/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/The Crypt/Nightmare"
+                    },
+
+                    {
+                        "name": "Bonebreaker (Hell)",
+                        "ref": "Hunt (Act 1)/Bonebreaker/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/The Crypt/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mausoleum",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Mausoleum/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Mausoleum/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Mausoleum/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cellar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Tower Cellar/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tower Cellar L1/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Tower Cellar/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tower Cellar L1/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Tower Cellar/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tower Cellar L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cellar Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tower Cellar L2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tower Cellar L2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tower Cellar L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cellar Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tower Cellar L3/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tower Cellar L3/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tower Cellar L3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cellar Level 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tower Cellar L4/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tower Cellar L4/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tower Cellar L4/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cellar Level 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "The Countess",
+                        "ref": "Hunt (Act 1)/The Countess/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tower Cellar L5/"
+                    },
+
+                    {
+                        "name": "The Countess (Nightmare)",
+                        "ref": "Hunt (Act 1)/The Countess/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tower Cellar L5/Nightmare"
+                    },
+
+                    {
+                        "name": "The Countess (Hell)",
+                        "ref": "Hunt (Act 1)/The Countess/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tower Cellar L5/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Monastery Gate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Monastery Gate/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Monastery Gate/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Monastery Gate/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Outer Cloister",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Outer Cloister/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Outer Cloister/"
+                    },
+
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Outer Cloister/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Outer Cloister/Nightmare"
+                    },
+
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Outer Cloister/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Outer Cloister/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Barracks",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "The Smith",
+                        "ref": "Hunt (Act 1)/The Smith/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Barracks/"
+                    },
+
+                    {
+                        "name": "The Smith (Nightmare)",
+                        "ref": "Hunt (Act 1)/The Smith/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Barracks/Nightmare"
+                    },
+
+                    {
+                        "name": "The Smith (Hell)",
+                        "ref": "Hunt (Act 1)/The Smith/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Barracks/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jail Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Jail Level 1/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Jail Level 1/"
+                    },
+
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Jail Level 1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Jail Level 1/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Jail Level 1/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Jail Level 1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jail Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pitspawn Fouldog",
+                        "ref": "Hunt (Act 1)/Pitspawn Fouldog/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Jail Level 2/"
+                    },
+
+                    {
+                        "name": "Pitspawn Fouldog (Nightmare)",
+                        "ref": "Hunt (Act 1)/Pitspawn Fouldog/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Jail Level 2/Nightmare"
+                    },
+
+                    {
+                        "name": "Pitspawn Fouldog (Hell)",
+                        "ref": "Hunt (Act 1)/Pitspawn Fouldog/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Jail Level 2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jail Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Jail Level 3/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Jail Level 3/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Jail Level 3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Cathedral",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boneash",
+                        "ref": "Hunt (Act 1)/Boneash/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Cathedral/"
+                    },
+
+                    {
+                        "name": "Boneash (Nightmare)",
+                        "ref": "Hunt (Act 1)/Boneash/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Cathedral/Nightmare"
+                    },
+
+                    {
+                        "name": "Boneash (Hell)",
+                        "ref": "Hunt (Act 1)/Boneash/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Cathedral/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Catacombs/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Catacombs L1/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Catacombs/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Catacombs L1/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Catacombs/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Catacombs L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Catacombs Level 2/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Catacombs L2/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Catacombs Level 2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Catacombs L2/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Catacombs Level 2/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Catacombs L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Catacombs L3/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Catacombs L3/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Catacombs L3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Level 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Catacombs L4/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Catacombs L4/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Catacombs L4/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tristram",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 1)/Tristram/"
+                    },
+                    {
+                        "name": "Griswold",
+                        "ref": "Hunt (Act 1)/Griswold/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Tristram/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 1)/Tristram/Nightmare"
+                    },
+                    {
+                        "name": "Griswold (Nightmare)",
+                        "ref": "Hunt (Act 1)/Griswold/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Tristram/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 1)/Tristram/Hell"
+                    },
+                    {
+                        "name": "Griswold (Hell)",
+                        "ref": "Hunt (Act 1)/Griswold/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Tristram/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hole Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Hole Level 1/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Hole Level 1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Hole Level 1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hole Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Hole Level 2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Hole Level 2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Hole Level 2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pit Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Pit Level 1/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Pit Level 1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Pit Level 1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pit Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Pit Level 2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Pit Level 2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Pit Level 2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Inner Cloister",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 1)/Inner Cloister/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 1)/Inner Cloister/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 1)/Inner Cloister/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 1)/Inner Cloister/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 1)/Inner Cloister/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 1)/Inner Cloister/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

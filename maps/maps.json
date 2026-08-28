@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Overworld",
+        "location_size": 10,
+        "location_shape": "diamond",
+        "location_border_thickness": 2,
+        "img": "images/maps/diablo2_zone_network_map.jpg"
+    },
+
+    {
+        "name": "Act 1",
+        "location_size": 50,
+        "location_border_thickness": 5,
+        "img": "images/maps/ACT_bg_name.jpg"
+    },
+    {
+        "name": "Act 2",
+        "location_size": 50,
+        "location_border_thickness": 5,
+        "img": "images/maps/ACT_bg_name.jpg"
+    },
+    {
+        "name": "Act 3",
+        "location_size": 50,
+        "location_border_thickness": 5,
+        "img": "images/maps/ACT_bg_name.jpg"
+    },
+    {
+        "name": "Act 4",
+        "location_size": 50,
+        "location_border_thickness": 5,
+        "img": "images/maps/ACT_bg_name.jpg"
+    },
+    {
+        "name": "Act 5",
+        "location_size": 50,
+        "location_border_thickness": 5,
+        "img": "images/maps/ACT_bg_name.jpg"
+    }
+]

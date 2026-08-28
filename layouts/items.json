@@ -1,0 +1,92 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "salvation",
+                                "throwingmastery",
+                                "drop:setjewelry",
+                                "dragontalon",
+                                "flawlessgem",
+                                "lostcitykey",
+                                "summitkey",
+                                "axemastery",
+                                "lightningmastery",
+                                "resistfire",
+                                "powerstrike",
+                                "drop:uniquehelm",
+                                "frozenorb",
+                                "firewall",
+                                "3skillpoints",
+                                "lightningfury",
+                                "arcanesanctuarykey",
+                                "twister"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "salvation",
+                                "throwingmastery",
+                                "drop:setjewelry",
+                                "dragontalon",
+                                "flawlessgem",
+                                "lostcitykey",
+                                "summitkey",
+                                "axemastery",
+                                "lightningmastery",
+                                "resistfire",
+                                "powerstrike",
+                                "drop:uniquehelm",
+                                "frozenorb",
+                                "firewall",
+                                "3skillpoints",
+                                "lightningfury",
+                                "arcanesanctuarykey",
+                                "twister"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

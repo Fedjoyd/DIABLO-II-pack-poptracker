@@ -1,0 +1,935 @@
+[
+    {
+        "name": "Overworld (Act 3)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Bloody Foothills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 5)/Bloody Foothills/"
+                    },
+                    {
+                        "name": "Shenk the Overseer",
+                        "ref": "Hunt (Act 5)/Shenk the Overseer/"
+                    },
+                    {
+                        "name": "Dac Farren",
+                        "ref": "Hunt (Act 5)/Dac Farren/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Bloody Foothills/"
+                    },
+
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 5)/Bloody Foothills/Nightmare"
+                    },
+                    {
+                        "name": "Shenk the Overseer (Nightmare)",
+                        "ref": "Hunt (Act 5)/Shenk the Overseer/Nightmare"
+                    },
+                    {
+                        "name": "Dac Farren (Nightmare)",
+                        "ref": "Hunt (Act 5)/Dac Farren/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Bloody Foothills/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 5)/Bloody Foothills/Hell"
+                    },
+                    {
+                        "name": "Shenk the Overseer (Hell)",
+                        "ref": "Hunt (Act 5)/Shenk the Overseer/Hell"
+                    },
+                    {
+                        "name": "Dac Farren (Hell)",
+                        "ref": "Hunt (Act 5)/Dac Farren/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Bloody Foothills/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Frigid Highlands",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 5)/Frigid Highlands/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Frigid Highlands/"
+                    },
+                    {
+                        "name": "Eyeback the Unleashed",
+                        "ref": "Hunt (Act 5)/Eyeback Unleashed/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Frigid Highlands/"
+                    },
+
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 5)/Frigid Highlands/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Frigid Highlands/Nightmare"
+                    },
+                    {
+                        "name": "Eyeback the Unleashed (Nightmare)",
+                        "ref": "Hunt (Act 5)/Eyeback Unleashed/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Frigid Highlands/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 5)/Frigid Highlands/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Frigid Highlands/Hell"
+                    },
+                    {
+                        "name": "Eyeback the Unleashed (Hell)",
+                        "ref": "Hunt (Act 5)/Eyeback Unleashed/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Frigid Highlands/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Arreat Plateau",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 5)/Arreat Plateau/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Arreat Plateau/"
+                    },
+                    {
+                        "name": "Thresh Socket",
+                        "ref": "Hunt (Act 5)/Thresh Socket/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Arreat Plateau/"
+                    },
+
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 5)/Arreat Plateau/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Arreat Plateau/Nightmare"
+                    },
+                    {
+                        "name": "Thresh Socket (Nightmare)",
+                        "ref": "Hunt (Act 5)/Thresh Socket/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Arreat Plateau/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 5)/Arreat Plateau/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Arreat Plateau/Hell"
+                    },
+                    {
+                        "name": "Thresh Socket (Hell)",
+                        "ref": "Hunt (Act 5)/Thresh Socket/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Arreat Plateau/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crystalline Passage",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 5)/Crystalline Passage/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Crystalline Passage/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Crystalline Passage/"
+                    },
+
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 5)/Crystalline Passage/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Crystalline Passage/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Crystalline Passage/Nightmare"
+                    },
+
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 5)/Crystalline Passage/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Crystalline Passage/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Crystalline Passage/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Ancients Way",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Ancients Way/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/The Ancients Way/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Ancients Way/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/The Ancients Way/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Ancients Way/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/The Ancients Way/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Glacial Trail",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Glacial Trail/"
+                    },
+                    {
+                        "name": "Bonesaw Breaker",
+                        "ref": "Hunt (Act 5)/Bonesaw Breaker/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Crystalized Cavern L2/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Glacial Trail/Nightmare"
+                    },
+                    {
+                        "name": "Bonesaw Breaker (Nightmare)",
+                        "ref": "Hunt (Act 5)/Bonesaw Breaker/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Crystalized Cavern L2/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Glacial Trail/Hell"
+                    },
+                    {
+                        "name": "Bonesaw Breaker (Hell)",
+                        "ref": "Hunt (Act 5)/Bonesaw Breaker/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Crystalized Cavern L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Icy Cellar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Snapchip Shatter",
+                        "ref": "Hunt (Act 5)/Snapchip Shatter/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Icy Cellar/"
+                    },
+
+                    {
+                        "name": "Snapchip Shatter (Nightmare)",
+                        "ref": "Hunt (Act 5)/Snapchip Shatter/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Icy Cellar/Nightmare"
+                    },
+
+                    {
+                        "name": "Snapchip Shatter (Hell)",
+                        "ref": "Hunt (Act 5)/Snapchip Shatter/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Icy Cellar/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Tundra",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Frozen Tundra/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Frozen Tundra/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Frozen Tundra/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Frozen Tundra/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Frozen Tundra/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Frozen Tundra/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Frozen River",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Frozenstein",
+                        "ref": "Hunt (Act 5)/Frozenstein/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Cellar of Pity/"
+                    },
+
+                    {
+                        "name": "Frozenstein (Nightmare)",
+                        "ref": "Hunt (Act 5)/Frozenstein/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Cellar of Pity/Nightmare"
+                    },
+
+                    {
+                        "name": "Frozenstein (Hell)",
+                        "ref": "Hunt (Act 5)/Frozenstein/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Cellar of Pity/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Nihlathaks Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pindleskin",
+                        "ref": "Hunt (Act 5)/Pindleskin/"
+                    },
+                    {
+                        "name": "Pindleskin (Nightmare)",
+                        "ref": "Hunt (Act 5)/Pindleskin/Nightmare"
+                    },
+                    {
+                        "name": "Pindleskin (Hell)",
+                        "ref": "Hunt (Act 5)/Pindleskin/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Anguish",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Halls of Anguish/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Halls of Anguish/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Halls of Anguish/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Pain",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Halls of Pain/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Halls of Pain/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Halls of Pain/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Halls of Pain/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Halls of Pain/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Halls of Pain/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Vaught",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Halls of Vaught/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Halls of Vaught/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Halls of Vaught/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone Keep Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Worldstone L1/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Worldstone L1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Worldstone L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone Keep Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 5)/Worldstone Keep 2/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Worldstone L2/"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 5)/Worldstone Keep 2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Worldstone L2/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 5)/Worldstone Keep 2/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Worldstone L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone Keep Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Worldstone L3/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Worldstone L3/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Worldstone L3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Throne of Destruction",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Throne of Destruction/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Throne of Destruction/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Throne of Destruction/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Drifter Cavern",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Echo Chamber/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Echo Chamber/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Echo Chamber/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Abaddon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Abaddon/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Abaddon/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Abaddon/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pit of Acheron",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Pit of Acheron/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Pit of Acheron/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Pit of Acheron/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infernal Pit",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 5)/Infernal Pit/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 5)/Infernal Pit/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 5)/Infernal Pit/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 100,
+                        "y": 100,
+                        "size": 50,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]
