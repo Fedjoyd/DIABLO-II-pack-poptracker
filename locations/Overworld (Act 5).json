@@ -628,12 +628,26 @@
                 ],
                 "sections": [
                     {
+                        "name": "Enter",
+                        "ref": "Enter (Act 5)/Worldstone Keep/"
+                    },
+                    {
                         "name": "Clear",
                         "ref": "Clear (Act 5)/Worldstone L1/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 5)/Worldstone Keep/Nightmare"
                     },
                     {
                         "name": "Clear (Nightmare)",
                         "ref": "Clear (Act 5)/Worldstone L1/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 5)/Worldstone Keep/Hell"
                     },
                     {
                         "name": "Clear (Hell)",

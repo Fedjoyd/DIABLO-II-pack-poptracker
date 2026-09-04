@@ -58,19 +58,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|1" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|1" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|1" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -94,19 +94,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|1" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|1" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|1" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -130,19 +130,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|2" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|2" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|2" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -166,19 +166,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|3" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|3" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|3" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -202,19 +202,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|2" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|2" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|2" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -238,19 +238,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|3" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|3" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|3" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }
@@ -274,19 +274,19 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [ "^$UnlockedGate|2|Normal|4" ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Nightmare",
-                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|2|Nightmare|4" ],
                         "visibility_rules": [ "$IsNightmareEnabled" ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell",
-                        "access_rules": [ "^$CanAccessHell" ],
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|2|Hell|4" ],
                         "visibility_rules": [ "$IsHellEnabled" ],
                         "item_count": 1
                     }

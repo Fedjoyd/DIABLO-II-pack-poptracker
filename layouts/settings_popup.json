@@ -13,13 +13,7 @@
 				        "type": "itemgrid",
 				        "item_size": "300,100",
 				        "rows": [
-                            [ "optionGoalFullNormal" ]
-                        ]
-                    },
-                    {
-				        "type": "itemgrid",
-				        "item_size": "300,50",
-				        "rows": [
+                            [ "optionGoalFullNormal" ],
                             [ "useZoneLocking" ]
                         ]
                     },

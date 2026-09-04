@@ -612,12 +612,26 @@
                 ],
                 "sections": [
                     {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Durance of Hate/"
+                    },
+                    {
                         "name": "Clear",
                         "ref": "Clear (Act 3)/Durance L1/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Durance of Hate/Nightmare"
                     },
                     {
                         "name": "Clear (Nightmare)",
                         "ref": "Clear (Act 3)/Durance L1/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Durance of Hate/Hell"
                     },
                     {
                         "name": "Clear (Hell)",

@@ -1,10 +1,27 @@
 [
     {
         "name": "useZoneLocking",
-        "type": "toggle",
-        "img": "images/settings/useZoneLocking.jpg",
-        "initial_active_state": false,
-        "codes": "useZoneLocking"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/useZoneLocking.jpg",
+                "codes": "useZoneLocking",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Zone Locking"
+            },
+            {
+                "img": "images/settings/useZoneLockingRandomKey.jpg",
+                "codes": "useZoneLockingRandomKey",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Zone Locking with Random Key to other player"
+            }
+        ]
     },
     
     {
