@@ -32,7 +32,6 @@ function CanAccessHell()
 end
 
 -- ===============================================================
--- test (but probably better thing to do)
 
 -- ^$UnlockedGate|<ACT>|<DIFFICULTY>|<GATE>
 -- ^$UnlockedGate|1|Normal|1
@@ -55,6 +54,35 @@ function UnlockedGate (act, difficulty, gate)
         if (Tracker:FindObjectForCode("@Act " .. act .. " (" .. difficulty .. ")/Gate " .. gate .. " Cleared").AvailableChestCount > 0) then
             return ACCESS_NONE;
         end
+    end
+
+    return ACCESS_NORMAL;
+end
+
+-- ===============================================================
+
+-- ^$HasDone|<LOCATION/SECTION>
+function HasDone(locationSectionCode)
+    if (Tracker:FindObjectForCode("@" .. locationSectionCode).AvailableChestCount > 0) then
+        return ACCESS_NONE;
+    end
+
+    return ACCESS_NORMAL;
+end
+
+-- ^$HasEnterZone|<ACT>|<ZONE>
+function HasEnterZone(actZone, zoneToEnter)
+    if (Tracker:FindObjectForCode("@Enter (Act " .. actZone .. ")/" .. zoneToEnter).AvailableChestCount > 0 and UseExplorationQuests() == ACCESS_NORMAL) then
+        return ACCESS_NONE;
+    end
+
+    return ACCESS_NORMAL;
+end
+
+-- ^$HasHuntMonster|<ACT>|<MONSTER>
+function HasHuntMonster(actMonster, MonsterToEnter)
+    if (Tracker:FindObjectForCode("@Hunt (Act " .. actMonster .. ")/" .. MonsterToEnter).AvailableChestCount > 0 and UseHuntingQuests() == ACCESS_NORMAL) then
+        return ACCESS_NONE;
     end
 
     return ACCESS_NORMAL;

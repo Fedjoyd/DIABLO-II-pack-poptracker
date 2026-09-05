@@ -110,19 +110,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Guardian/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -146,19 +146,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Guardian/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -182,19 +182,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Guardian/, ^$HasEnterZone|4|Chaos Sanctuary/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare, ^$HasEnterZone|4|Chaos Sanctuary/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell, ^$HasEnterZone|4|Chaos Sanctuary/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }

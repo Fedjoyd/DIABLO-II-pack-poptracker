@@ -146,19 +146,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Seven Tombs/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -182,19 +182,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Golden Bird/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Golden Bird/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Golden Bird/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -218,19 +218,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Golden Bird/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Golden Bird/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Golden Bird/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -254,19 +254,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Seven Tombs/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -290,19 +290,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Seven Tombs/, ^$HasEnterZone|3|Travincal/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare, ^$HasEnterZone|3|Travincal/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell, ^$HasEnterZone|3|Travincal/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -326,19 +326,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Khalims Will/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Khalims Will/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Khalims Will/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }

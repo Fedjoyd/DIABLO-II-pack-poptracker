@@ -146,19 +146,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Terrors End/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Terrors End/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Terrors End/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -182,19 +182,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Terrors End/, ^$HasHuntMonster|5|Shenk the Overseer/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Terrors End/Nightmare, ^$HasHuntMonster|5|Shenk the Overseer/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Terrors End/Hell, ^$HasHuntMonster|5|Shenk the Overseer/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -218,19 +218,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Rescue on Mt. Arreat/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Rescue on Mt. Arreat/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Rescue on Mt. Arreat/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -254,19 +254,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Prison of Ice/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Prison of Ice/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Prison of Ice/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -290,19 +290,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Betrayal of Harrogath/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Betrayal of Harrogath/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Betrayal of Harrogath/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -326,19 +326,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Rite of Passage/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Rite of Passage/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Rite of Passage/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }

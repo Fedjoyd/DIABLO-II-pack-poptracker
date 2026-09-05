@@ -146,19 +146,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -182,19 +182,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasHuntMonster|2|Radament/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasHuntMonster|2|Radament/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasHuntMonster|2|Radament/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -218,19 +218,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasEnterZone|2|Lost City/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasEnterZone|2|Lost City/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasEnterZone|2|Lost City/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -254,19 +254,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Horadric Staff/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Horadric Staff/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Horadric Staff/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -290,19 +290,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasEnterZone|2|Arcane Sanctuary/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasEnterZone|2|Arcane Sanctuary/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasEnterZone|2|Arcane Sanctuary/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -326,19 +326,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasHuntMonster|2|The Summoner/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasHuntMonster|2|The Summoner/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasHuntMonster|2|The Summoner/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }

@@ -182,19 +182,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Den of Evil/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Den of Evil/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Den of Evil/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -218,19 +218,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Sisters Burial Grounds/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters Burial Grounds/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters Burial Grounds/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -254,19 +254,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasEnterZone|1|Stony Field/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasEnterZone|1|Stony Field/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasEnterZone|1|Stony Field/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -290,19 +290,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|The Search for Cain/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Search for Cain/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Search for Cain/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
@@ -326,19 +326,19 @@
         "sections": [
             {
                 "name": "",
-                "access_rules": [],
+                "access_rules": [ "^$HasDone|Tools of the Trade/" ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Nightmare",
-                "access_rules": [ "^$CanAccessNightmare" ],
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Tools of the Trade/Nightmare" ],
                 "visibility_rules": [ "$IsNightmareEnabled" ],
                 "item_count": 1
             },
             {
                 "name": "Hell",
-                "access_rules": [ "^$CanAccessHell" ],
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Tools of the Trade/Hell" ],
                 "visibility_rules": [ "$IsHellEnabled" ],
                 "item_count": 1
             }
