@@ -1,35 +1,11 @@
 [
     {
-        "name": "salvation",
-        "type": "toggle",
-        "img": "images/items/salvation.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "salvation"
-    },
-    {
-        "name": "throwingmastery",
-        "type": "toggle",
-        "img": "images/items/throwingmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "throwingmastery"
-    },
-    {
         "name": "drop:setjewelry",
         "type": "toggle",
         "img": "images/items/drop:setjewelry.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "drop:setjewelry"
-    },
-    {
-        "name": "dragontalon",
-        "type": "toggle",
-        "img": "images/items/dragontalon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragontalon"
     },
     {
         "name": "flawlessgem",
@@ -56,60 +32,12 @@
         "codes": "summitkey"
     },
     {
-        "name": "axemastery",
-        "type": "toggle",
-        "img": "images/items/axemastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "axemastery"
-    },
-    {
-        "name": "lightningmastery",
-        "type": "toggle",
-        "img": "images/items/lightningmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightningmastery"
-    },
-    {
-        "name": "resistfire",
-        "type": "toggle",
-        "img": "images/items/resistfire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "resistfire"
-    },
-    {
-        "name": "powerstrike",
-        "type": "toggle",
-        "img": "images/items/powerstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "powerstrike"
-    },
-    {
         "name": "drop:uniquehelm",
         "type": "toggle",
         "img": "images/items/drop:uniquehelm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "drop:uniquehelm"
-    },
-    {
-        "name": "frozenorb",
-        "type": "toggle",
-        "img": "images/items/frozenorb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frozenorb"
-    },
-    {
-        "name": "firewall",
-        "type": "toggle",
-        "img": "images/items/firewall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firewall"
     },
     {
         "name": "3skillpoints",
@@ -120,44 +48,12 @@
         "codes": "3skillpoints"
     },
     {
-        "name": "lightningfury",
-        "type": "toggle",
-        "img": "images/items/lightningfury.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightningfury"
-    },
-    {
         "name": "arcanesanctuarykey",
         "type": "toggle",
         "img": "images/items/arcanesanctuarykey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "arcanesanctuarykey"
-    },
-    {
-        "name": "twister",
-        "type": "toggle",
-        "img": "images/items/twister.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "twister"
-    },
-    {
-        "name": "volcano",
-        "type": "toggle",
-        "img": "images/items/volcano.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "volcano"
-    },
-    {
-        "name": "battleorders",
-        "type": "toggle",
-        "img": "images/items/battleorders.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "battleorders"
     },
     {
         "name": "drop:randomsetitem",
@@ -168,14 +64,6 @@
         "codes": "drop:randomsetitem"
     },
     {
-        "name": "firestorm",
-        "type": "toggle",
-        "img": "images/items/firestorm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firestorm"
-    },
-    {
         "name": "drop:diabloloot",
         "type": "toggle",
         "img": "images/items/drop:diabloloot.png",
@@ -184,44 +72,12 @@
         "codes": "drop:diabloloot"
     },
     {
-        "name": "holyshield",
-        "type": "toggle",
-        "img": "images/items/holyshield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holyshield"
-    },
-    {
-        "name": "dragonclaw",
-        "type": "toggle",
-        "img": "images/items/dragonclaw.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragonclaw"
-    },
-    {
-        "name": "blessedaim",
-        "type": "toggle",
-        "img": "images/items/blessedaim.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blessedaim"
-    },
-    {
         "name": "junglekey",
         "type": "toggle",
         "img": "images/items/junglekey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "junglekey"
-    },
-    {
-        "name": "whirlwind",
-        "type": "toggle",
-        "img": "images/items/whirlwind.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "whirlwind"
     },
     {
         "name": "duranceofhatekey",
@@ -244,44 +100,12 @@
         "codes": "progressiveact5key(normal)"
     },
     {
-        "name": "polearmmastery",
-        "type": "toggle",
-        "img": "images/items/polearmmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "polearmmastery"
-    },
-    {
-        "name": "meteor",
-        "type": "toggle",
-        "img": "images/items/meteor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "meteor"
-    },
-    {
-        "name": "shout",
-        "type": "toggle",
-        "img": "images/items/shout.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shout"
-    },
-    {
         "name": "randomgem",
         "type": "toggle",
         "img": "images/items/randomgem.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "randomgem"
-    },
-    {
-        "name": "evade",
-        "type": "toggle",
-        "img": "images/items/evade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "evade"
     },
     {
         "name": "nihlathakkey",
@@ -304,30 +128,6 @@
         "codes": "progressiveact1key(hell)"
     },
     {
-        "name": "dimvision",
-        "type": "toggle",
-        "img": "images/items/dimvision.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dimvision"
-    },
-    {
-        "name": "plaguejavelin",
-        "type": "toggle",
-        "img": "images/items/plaguejavelin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "plaguejavelin"
-    },
-    {
-        "name": "teleport",
-        "type": "toggle",
-        "img": "images/items/teleport.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "teleport"
-    },
-    {
         "name": "fullrejuvenationpotions",
         "type": "toggle",
         "img": "images/items/fullrejuvenationpotions.png",
@@ -336,36 +136,12 @@
         "codes": "fullrejuvenationpotions"
     },
     {
-        "name": "lifetap",
-        "type": "toggle",
-        "img": "images/items/lifetap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lifetap"
-    },
-    {
         "name": "grandcharm",
         "type": "toggle",
         "img": "images/items/grandcharm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "grandcharm"
-    },
-    {
-        "name": "wakeoffire",
-        "type": "toggle",
-        "img": "images/items/wakeoffire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wakeoffire"
-    },
-    {
-        "name": "cleansing",
-        "type": "toggle",
-        "img": "images/items/cleansing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cleansing"
     },
     {
         "name": "5statpoints",
@@ -388,14 +164,6 @@
         "codes": "progressiveact1key(normal)"
     },
     {
-        "name": "thorns",
-        "type": "toggle",
-        "img": "images/items/thorns.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "thorns"
-    },
-    {
         "name": "catacombskey",
         "type": "toggle",
         "img": "images/items/catacombskey.png",
@@ -404,68 +172,12 @@
         "codes": "catacombskey"
     },
     {
-        "name": "confuse",
-        "type": "toggle",
-        "img": "images/items/confuse.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "confuse"
-    },
-    {
-        "name": "concentrate",
-        "type": "toggle",
-        "img": "images/items/concentrate.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "concentrate"
-    },
-    {
-        "name": "decrepify",
-        "type": "toggle",
-        "img": "images/items/decrepify.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "decrepify"
-    },
-    {
         "name": "throneofdestructionkey",
         "type": "toggle",
         "img": "images/items/throneofdestructionkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "throneofdestructionkey"
-    },
-    {
-        "name": "holyfire",
-        "type": "toggle",
-        "img": "images/items/holyfire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holyfire"
-    },
-    {
-        "name": "poisonnova",
-        "type": "toggle",
-        "img": "images/items/poisonnova.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poisonnova"
-    },
-    {
-        "name": "innersight",
-        "type": "toggle",
-        "img": "images/items/innersight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "innersight"
-    },
-    {
-        "name": "icebolt",
-        "type": "toggle",
-        "img": "images/items/icebolt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "icebolt"
     },
     {
         "name": "greaterhealingpotions",
@@ -484,38 +196,6 @@
         "codes": "andarielslairkey"
     },
     {
-        "name": "blaze",
-        "type": "toggle",
-        "img": "images/items/blaze.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blaze"
-    },
-    {
-        "name": "hydra",
-        "type": "toggle",
-        "img": "images/items/hydra.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hydra"
-    },
-    {
-        "name": "raven",
-        "type": "toggle",
-        "img": "images/items/raven.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "raven"
-    },
-    {
-        "name": "avoid",
-        "type": "toggle",
-        "img": "images/items/avoid.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "avoid"
-    },
-    {
         "name": "kurastkey",
         "type": "toggle",
         "img": "images/items/kurastkey.png",
@@ -524,92 +204,12 @@
         "codes": "kurastkey"
     },
     {
-        "name": "multipleshot",
-        "type": "toggle",
-        "img": "images/items/multipleshot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "multipleshot"
-    },
-    {
-        "name": "impale",
-        "type": "toggle",
-        "img": "images/items/impale.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "impale"
-    },
-    {
-        "name": "stun",
-        "type": "toggle",
-        "img": "images/items/stun.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stun"
-    },
-    {
-        "name": "chillingarmor",
-        "type": "toggle",
-        "img": "images/items/chillingarmor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chillingarmor"
-    },
-    {
-        "name": "shockweb",
-        "type": "toggle",
-        "img": "images/items/shockweb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shockweb"
-    },
-    {
-        "name": "shadowmaster",
-        "type": "toggle",
-        "img": "images/items/shadowmaster.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shadowmaster"
-    },
-    {
         "name": "drop:setweapon",
         "type": "toggle",
         "img": "images/items/drop:setweapon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "drop:setweapon"
-    },
-    {
-        "name": "conviction",
-        "type": "toggle",
-        "img": "images/items/conviction.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "conviction"
-    },
-    {
-        "name": "fend",
-        "type": "toggle",
-        "img": "images/items/fend.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fend"
-    },
-    {
-        "name": "might",
-        "type": "toggle",
-        "img": "images/items/might.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "might"
-    },
-    {
-        "name": "grimward",
-        "type": "toggle",
-        "img": "images/items/grimward.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "grimward"
     },
     {
         "name": "randomrune",
@@ -628,52 +228,12 @@
         "codes": "drop:setbelt"
     },
     {
-        "name": "warcry",
-        "type": "toggle",
-        "img": "images/items/warcry.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "warcry"
-    },
-    {
-        "name": "bonespear",
-        "type": "toggle",
-        "img": "images/items/bonespear.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bonespear"
-    },
-    {
-        "name": "iceblast",
-        "type": "toggle",
-        "img": "images/items/iceblast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "iceblast"
-    },
-    {
-        "name": "howl",
-        "type": "toggle",
-        "img": "images/items/howl.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "howl"
-    },
-    {
         "name": "randomrune(high)",
         "type": "toggle",
         "img": "images/items/randomrune(high).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "randomrune(high)"
-    },
-    {
-        "name": "wakeofinferno",
-        "type": "toggle",
-        "img": "images/items/wakeofinferno.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wakeofinferno"
     },
     {
         "name": "drop:durielloot",
@@ -700,46 +260,6 @@
         "codes": "canyonofthemagikey"
     },
     {
-        "name": "ironmaiden",
-        "type": "toggle",
-        "img": "images/items/ironmaiden.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironmaiden"
-    },
-    {
-        "name": "maul",
-        "type": "toggle",
-        "img": "images/items/maul.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "maul"
-    },
-    {
-        "name": "poisonexplosion",
-        "type": "toggle",
-        "img": "images/items/poisonexplosion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poisonexplosion"
-    },
-    {
-        "name": "summonresist",
-        "type": "toggle",
-        "img": "images/items/summonresist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "summonresist"
-    },
-    {
-        "name": "staticfield",
-        "type": "toggle",
-        "img": "images/items/staticfield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "staticfield"
-    },
-    {
         "name": "drop:uniqueshield",
         "type": "toggle",
         "img": "images/items/drop:uniqueshield.png",
@@ -756,44 +276,12 @@
         "codes": "trap:junkbackpack"
     },
     {
-        "name": "fury",
-        "type": "toggle",
-        "img": "images/items/fury.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fury"
-    },
-    {
-        "name": "inferno",
-        "type": "toggle",
-        "img": "images/items/inferno.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "inferno"
-    },
-    {
         "name": "3resetpoints",
         "type": "toggle",
         "img": "images/items/3resetpoints.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "3resetpoints"
-    },
-    {
-        "name": "tornado",
-        "type": "toggle",
-        "img": "images/items/tornado.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tornado"
-    },
-    {
-        "name": "solarcreeper",
-        "type": "toggle",
-        "img": "images/items/solarcreeper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "solarcreeper"
     },
     {
         "name": "stonyfieldkey",
@@ -804,36 +292,12 @@
         "codes": "stonyfieldkey"
     },
     {
-        "name": "shadowwarrior",
-        "type": "toggle",
-        "img": "images/items/shadowwarrior.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shadowwarrior"
-    },
-    {
-        "name": "fade",
-        "type": "toggle",
-        "img": "images/items/fade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fade"
-    },
-    {
         "name": "bloodyfoothillskey",
         "type": "toggle",
         "img": "images/items/bloodyfoothillskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bloodyfoothillskey"
-    },
-    {
-        "name": "poisondagger",
-        "type": "toggle",
-        "img": "images/items/poisondagger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poisondagger"
     },
     {
         "name": "drop:uniqueboots",
@@ -844,14 +308,6 @@
         "codes": "drop:uniqueboots"
     },
     {
-        "name": "battlecry",
-        "type": "toggle",
-        "img": "images/items/battlecry.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "battlecry"
-    },
-    {
         "name": "drop:sethelm",
         "type": "toggle",
         "img": "images/items/drop:sethelm.png",
@@ -860,68 +316,12 @@
         "codes": "drop:sethelm"
     },
     {
-        "name": "redemption",
-        "type": "toggle",
-        "img": "images/items/redemption.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "redemption"
-    },
-    {
-        "name": "holyshock",
-        "type": "toggle",
-        "img": "images/items/holyshock.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holyshock"
-    },
-    {
-        "name": "tigerstrike",
-        "type": "toggle",
-        "img": "images/items/tigerstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tigerstrike"
-    },
-    {
-        "name": "macemastery",
-        "type": "toggle",
-        "img": "images/items/macemastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "macemastery"
-    },
-    {
         "name": "durielslairkey",
         "type": "toggle",
         "img": "images/items/durielslairkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "durielslairkey"
-    },
-    {
-        "name": "defiance",
-        "type": "toggle",
-        "img": "images/items/defiance.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "defiance"
-    },
-    {
-        "name": "poisoncreeper",
-        "type": "toggle",
-        "img": "images/items/poisoncreeper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poisoncreeper"
-    },
-    {
-        "name": "cobrastrike",
-        "type": "toggle",
-        "img": "images/items/cobrastrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cobrastrike"
     },
     {
         "name": "progressiveact3key(normal)",
@@ -934,22 +334,6 @@
         "initial_quantity": 0,
         "overlay_align": "right",
         "codes": "progressiveact3key(normal)"
-    },
-    {
-        "name": "frenzy",
-        "type": "toggle",
-        "img": "images/items/frenzy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frenzy"
-    },
-    {
-        "name": "hurricane",
-        "type": "toggle",
-        "img": "images/items/hurricane.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hurricane"
     },
     {
         "name": "drop:uniqueweapon",
@@ -984,68 +368,12 @@
         "codes": "darkwoodkey"
     },
     {
-        "name": "claygolem",
-        "type": "toggle",
-        "img": "images/items/claygolem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "claygolem"
-    },
-    {
-        "name": "armageddon",
-        "type": "toggle",
-        "img": "images/items/armageddon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "armageddon"
-    },
-    {
-        "name": "decoy",
-        "type": "toggle",
-        "img": "images/items/decoy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "decoy"
-    },
-    {
-        "name": "firegolem",
-        "type": "toggle",
-        "img": "images/items/firegolem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firegolem"
-    },
-    {
-        "name": "conversion",
-        "type": "toggle",
-        "img": "images/items/conversion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "conversion"
-    },
-    {
         "name": "10statpoints",
         "type": "toggle",
         "img": "images/items/10statpoints.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "10statpoints"
-    },
-    {
-        "name": "swordmastery",
-        "type": "toggle",
-        "img": "images/items/swordmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "swordmastery"
-    },
-    {
-        "name": "ironskin",
-        "type": "toggle",
-        "img": "images/items/ironskin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironskin"
     },
     {
         "name": "drop:uniquegloves",
@@ -1064,68 +392,12 @@
         "codes": "skillpoint"
     },
     {
-        "name": "summondirewolf",
-        "type": "toggle",
-        "img": "images/items/summondirewolf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "summondirewolf"
-    },
-    {
-        "name": "dragontail",
-        "type": "toggle",
-        "img": "images/items/dragontail.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragontail"
-    },
-    {
-        "name": "cloakofshadows",
-        "type": "toggle",
-        "img": "images/items/cloakofshadows.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cloakofshadows"
-    },
-    {
         "name": "gold",
         "type": "toggle",
         "img": "images/items/gold.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gold"
-    },
-    {
-        "name": "energyshield",
-        "type": "toggle",
-        "img": "images/items/energyshield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "energyshield"
-    },
-    {
-        "name": "bonewall",
-        "type": "toggle",
-        "img": "images/items/bonewall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bonewall"
-    },
-    {
-        "name": "immolationarrow",
-        "type": "toggle",
-        "img": "images/items/immolationarrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "immolationarrow"
-    },
-    {
-        "name": "phoenixstrike",
-        "type": "toggle",
-        "img": "images/items/phoenixstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "phoenixstrike"
     },
     {
         "name": "progressiveact2key(nightmare)",
@@ -1138,30 +410,6 @@
         "initial_quantity": 0,
         "overlay_align": "right",
         "codes": "progressiveact2key(nightmare)"
-    },
-    {
-        "name": "firebolt",
-        "type": "toggle",
-        "img": "images/items/firebolt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firebolt"
-    },
-    {
-        "name": "frozenarmor",
-        "type": "toggle",
-        "img": "images/items/frozenarmor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frozenarmor"
-    },
-    {
-        "name": "finditem",
-        "type": "toggle",
-        "img": "images/items/finditem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "finditem"
     },
     {
         "name": "greatermanapotions",
@@ -1180,36 +428,12 @@
         "codes": "drop:andarielloot"
     },
     {
-        "name": "werebear",
-        "type": "toggle",
-        "img": "images/items/werebear.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "werebear"
-    },
-    {
-        "name": "lightningstrike",
-        "type": "toggle",
-        "img": "images/items/lightningstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightningstrike"
-    },
-    {
         "name": "randomrune(mid)",
         "type": "toggle",
         "img": "images/items/randomrune(mid).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "randomrune(mid)"
-    },
-    {
-        "name": "dodge",
-        "type": "toggle",
-        "img": "images/items/dodge.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dodge"
     },
     {
         "name": "3statpoints",
@@ -1220,44 +444,12 @@
         "codes": "3statpoints"
     },
     {
-        "name": "cyclonearmor",
-        "type": "toggle",
-        "img": "images/items/cyclonearmor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cyclonearmor"
-    },
-    {
-        "name": "hunger",
-        "type": "toggle",
-        "img": "images/items/hunger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hunger"
-    },
-    {
-        "name": "shiverarmor",
-        "type": "toggle",
-        "img": "images/items/shiverarmor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shiverarmor"
-    },
-    {
         "name": "cavernskey",
         "type": "toggle",
         "img": "images/items/cavernskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cavernskey"
-    },
-    {
-        "name": "chargedstrike",
-        "type": "toggle",
-        "img": "images/items/chargedstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chargedstrike"
     },
     {
         "name": "dryhillskey",
@@ -1268,22 +460,6 @@
         "codes": "dryhillskey"
     },
     {
-        "name": "nova",
-        "type": "toggle",
-        "img": "images/items/nova.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nova"
-    },
-    {
-        "name": "weaken",
-        "type": "toggle",
-        "img": "images/items/weaken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "weaken"
-    },
-    {
         "name": "utilitypotions",
         "type": "toggle",
         "img": "images/items/utilitypotions.png",
@@ -1292,52 +468,12 @@
         "codes": "utilitypotions"
     },
     {
-        "name": "charge",
-        "type": "toggle",
-        "img": "images/items/charge.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "charge"
-    },
-    {
-        "name": "bladeshield",
-        "type": "toggle",
-        "img": "images/items/bladeshield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bladeshield"
-    },
-    {
-        "name": "raiseskeletalmage",
-        "type": "toggle",
-        "img": "images/items/raiseskeletalmage.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "raiseskeletalmage"
-    },
-    {
         "name": "trap:monsters",
         "type": "toggle",
         "img": "images/items/trap:monsters.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "trap:monsters"
-    },
-    {
-        "name": "valkyrie",
-        "type": "toggle",
-        "img": "images/items/valkyrie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "valkyrie"
-    },
-    {
-        "name": "clawsofthunder",
-        "type": "toggle",
-        "img": "images/items/clawsofthunder.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "clawsofthunder"
     },
     {
         "name": "progressiveact3key(hell)",
@@ -1350,22 +486,6 @@
         "initial_quantity": 0,
         "overlay_align": "right",
         "codes": "progressiveact3key(hell)"
-    },
-    {
-        "name": "vengeance",
-        "type": "toggle",
-        "img": "images/items/vengeance.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vengeance"
-    },
-    {
-        "name": "spearmastery",
-        "type": "toggle",
-        "img": "images/items/spearmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spearmastery"
     },
     {
         "name": "experience",
@@ -1400,54 +520,6 @@
         "codes": "burialgroundskey"
     },
     {
-        "name": "boneprison",
-        "type": "toggle",
-        "img": "images/items/boneprison.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boneprison"
-    },
-    {
-        "name": "lightningsentry",
-        "type": "toggle",
-        "img": "images/items/lightningsentry.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightningsentry"
-    },
-    {
-        "name": "psychichammer",
-        "type": "toggle",
-        "img": "images/items/psychichammer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "psychichammer"
-    },
-    {
-        "name": "meditation",
-        "type": "toggle",
-        "img": "images/items/meditation.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "meditation"
-    },
-    {
-        "name": "bloodgolem",
-        "type": "toggle",
-        "img": "images/items/bloodgolem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bloodgolem"
-    },
-    {
-        "name": "warmth",
-        "type": "toggle",
-        "img": "images/items/warmth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "warmth"
-    },
-    {
         "name": "progressiveact1key(nightmare)",
         "type": "consumable",
         "img": "images/icon/key.png",
@@ -1458,22 +530,6 @@
         "initial_quantity": 0,
         "overlay_align": "right",
         "codes": "progressiveact1key(nightmare)"
-    },
-    {
-        "name": "fanaticism",
-        "type": "toggle",
-        "img": "images/items/fanaticism.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fanaticism"
-    },
-    {
-        "name": "carrionvine",
-        "type": "toggle",
-        "img": "images/items/carrionvine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "carrionvine"
     },
     {
         "name": "drop:setgloves",
@@ -1490,22 +546,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "2skillpoints"
-    },
-    {
-        "name": "holyfreeze",
-        "type": "toggle",
-        "img": "images/items/holyfreeze.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holyfreeze"
-    },
-    {
-        "name": "oaksage",
-        "type": "toggle",
-        "img": "images/items/oaksage.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oaksage"
     },
     {
         "name": "trap:poison",
@@ -1532,22 +572,6 @@
         "codes": "worldstonekeepkey"
     },
     {
-        "name": "heartofwolverine",
-        "type": "toggle",
-        "img": "images/items/heartofwolverine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "heartofwolverine"
-    },
-    {
-        "name": "lightningbolt",
-        "type": "toggle",
-        "img": "images/items/lightningbolt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightningbolt"
-    },
-    {
         "name": "trap:slow",
         "type": "toggle",
         "img": "images/items/trap:slow.png",
@@ -1556,60 +580,12 @@
         "codes": "trap:slow"
     },
     {
-        "name": "raiseskeleton",
-        "type": "toggle",
-        "img": "images/items/raiseskeleton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "raiseskeleton"
-    },
-    {
-        "name": "leap",
-        "type": "toggle",
-        "img": "images/items/leap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leap"
-    },
-    {
         "name": "drop:uniquejewelry",
         "type": "toggle",
         "img": "images/items/drop:uniquejewelry.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "drop:uniquejewelry"
-    },
-    {
-        "name": "moltenboulder",
-        "type": "toggle",
-        "img": "images/items/moltenboulder.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "moltenboulder"
-    },
-    {
-        "name": "shockwave",
-        "type": "toggle",
-        "img": "images/items/shockwave.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shockwave"
-    },
-    {
-        "name": "summonspiritwolf",
-        "type": "toggle",
-        "img": "images/items/summonspiritwolf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "summonspiritwolf"
-    },
-    {
-        "name": "chargedbolt",
-        "type": "toggle",
-        "img": "images/items/chargedbolt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chargedbolt"
     },
     {
         "name": "progressiveact3key(nightmare)",
@@ -1624,52 +600,12 @@
         "codes": "progressiveact3key(nightmare)"
     },
     {
-        "name": "vigor",
-        "type": "toggle",
-        "img": "images/items/vigor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vigor"
-    },
-    {
-        "name": "dragonflight",
-        "type": "toggle",
-        "img": "images/items/dragonflight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragonflight"
-    },
-    {
         "name": "coldplainskey",
         "type": "toggle",
         "img": "images/items/coldplainskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "coldplainskey"
-    },
-    {
-        "name": "amplifydamage",
-        "type": "toggle",
-        "img": "images/items/amplifydamage.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "amplifydamage"
-    },
-    {
-        "name": "fissure",
-        "type": "toggle",
-        "img": "images/items/fissure.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fissure"
-    },
-    {
-        "name": "doublethrow",
-        "type": "toggle",
-        "img": "images/items/doublethrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "doublethrow"
     },
     {
         "name": "magicarrow",
@@ -1680,54 +616,6 @@
         "codes": "magicarrow"
     },
     {
-        "name": "frostnova",
-        "type": "toggle",
-        "img": "images/items/frostnova.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "frostnova"
-    },
-    {
-        "name": "coldmastery",
-        "type": "toggle",
-        "img": "images/items/coldmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "coldmastery"
-    },
-    {
-        "name": "venom",
-        "type": "toggle",
-        "img": "images/items/venom.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "venom"
-    },
-    {
-        "name": "increasedstamina",
-        "type": "toggle",
-        "img": "images/items/increasedstamina.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "increasedstamina"
-    },
-    {
-        "name": "sacrifice",
-        "type": "toggle",
-        "img": "images/items/sacrifice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sacrifice"
-    },
-    {
-        "name": "leapattack",
-        "type": "toggle",
-        "img": "images/items/leapattack.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leapattack"
-    },
-    {
         "name": "drop:uniquebelt",
         "type": "toggle",
         "img": "images/items/drop:uniquebelt.png",
@@ -1736,76 +624,12 @@
         "codes": "drop:uniquebelt"
     },
     {
-        "name": "resistlightning",
-        "type": "toggle",
-        "img": "images/items/resistlightning.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "resistlightning"
-    },
-    {
-        "name": "battlecommand",
-        "type": "toggle",
-        "img": "images/items/battlecommand.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "battlecommand"
-    },
-    {
         "name": "highlandskey",
         "type": "toggle",
         "img": "images/items/highlandskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "highlandskey"
-    },
-    {
-        "name": "attract",
-        "type": "toggle",
-        "img": "images/items/attract.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "attract"
-    },
-    {
-        "name": "bash",
-        "type": "toggle",
-        "img": "images/items/bash.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bash"
-    },
-    {
-        "name": "icearrow",
-        "type": "toggle",
-        "img": "images/items/icearrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "icearrow"
-    },
-    {
-        "name": "corpseexplosion",
-        "type": "toggle",
-        "img": "images/items/corpseexplosion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "corpseexplosion"
-    },
-    {
-        "name": "clawmastery",
-        "type": "toggle",
-        "img": "images/items/clawmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "clawmastery"
-    },
-    {
-        "name": "burstofspeed",
-        "type": "toggle",
-        "img": "images/items/burstofspeed.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "burstofspeed"
     },
     {
         "name": "largecharm",
@@ -1832,36 +656,12 @@
         "codes": "perfectgem"
     },
     {
-        "name": "revive",
-        "type": "toggle",
-        "img": "images/items/revive.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "revive"
-    },
-    {
         "name": "faroasiskey",
         "type": "toggle",
         "img": "images/items/faroasiskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "faroasiskey"
-    },
-    {
-        "name": "slowmissiles",
-        "type": "toggle",
-        "img": "images/items/slowmissiles.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "slowmissiles"
-    },
-    {
-        "name": "fireclaws",
-        "type": "toggle",
-        "img": "images/items/fireclaws.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fireclaws"
     },
     {
         "name": "drop:uniquearmor",
@@ -1872,36 +672,12 @@
         "codes": "drop:uniquearmor"
     },
     {
-        "name": "fireball",
-        "type": "toggle",
-        "img": "images/items/fireball.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fireball"
-    },
-    {
-        "name": "teeth",
-        "type": "toggle",
-        "img": "images/items/teeth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "teeth"
-    },
-    {
         "name": "tomeoftownportal",
         "type": "toggle",
         "img": "images/items/tomeoftownportal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tomeoftownportal"
-    },
-    {
-        "name": "poisonjavelin",
-        "type": "toggle",
-        "img": "images/items/poisonjavelin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poisonjavelin"
     },
     {
         "name": "skeletonkeys",
@@ -1924,52 +700,12 @@
         "codes": "progressiveact4key(nightmare)"
     },
     {
-        "name": "naturalresistance",
-        "type": "toggle",
-        "img": "images/items/naturalresistance.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "naturalresistance"
-    },
-    {
-        "name": "explodingarrow",
-        "type": "toggle",
-        "img": "images/items/explodingarrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "explodingarrow"
-    },
-    {
-        "name": "golemmastery",
-        "type": "toggle",
-        "img": "images/items/golemmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "golemmastery"
-    },
-    {
         "name": "cityofthedamnedkey",
         "type": "toggle",
         "img": "images/items/cityofthedamnedkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cityofthedamnedkey"
-    },
-    {
-        "name": "weaponblock",
-        "type": "toggle",
-        "img": "images/items/weaponblock.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "weaponblock"
-    },
-    {
-        "name": "bladesentinel",
-        "type": "toggle",
-        "img": "images/items/bladesentinel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bladesentinel"
     },
     {
         "name": "throwingpotions",
@@ -2016,44 +752,12 @@
         "codes": "drop:randomcharm"
     },
     {
-        "name": "bladefury",
-        "type": "toggle",
-        "img": "images/items/bladefury.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bladefury"
-    },
-    {
         "name": "smallcharm",
         "type": "toggle",
         "img": "images/items/smallcharm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "smallcharm"
-    },
-    {
-        "name": "werewolf",
-        "type": "toggle",
-        "img": "images/items/werewolf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "werewolf"
-    },
-    {
-        "name": "taunt",
-        "type": "toggle",
-        "img": "images/items/taunt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "taunt"
-    },
-    {
-        "name": "jab",
-        "type": "toggle",
-        "img": "images/items/jab.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jab"
     },
     {
         "name": "drop:setshield",
@@ -2072,86 +776,6 @@
         "codes": "palacekey"
     },
     {
-        "name": "strafe",
-        "type": "toggle",
-        "img": "images/items/strafe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "strafe"
-    },
-    {
-        "name": "feralrage",
-        "type": "toggle",
-        "img": "images/items/feralrage.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "feralrage"
-    },
-    {
-        "name": "telekinesis",
-        "type": "toggle",
-        "img": "images/items/telekinesis.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "telekinesis"
-    },
-    {
-        "name": "firemastery",
-        "type": "toggle",
-        "img": "images/items/firemastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firemastery"
-    },
-    {
-        "name": "irongolem",
-        "type": "toggle",
-        "img": "images/items/irongolem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "irongolem"
-    },
-    {
-        "name": "sanctuary",
-        "type": "toggle",
-        "img": "images/items/sanctuary.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sanctuary"
-    },
-    {
-        "name": "smite",
-        "type": "toggle",
-        "img": "images/items/smite.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smite"
-    },
-    {
-        "name": "pierce",
-        "type": "toggle",
-        "img": "images/items/pierce.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pierce"
-    },
-    {
-        "name": "lightning",
-        "type": "toggle",
-        "img": "images/items/lightning.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightning"
-    },
-    {
-        "name": "increasedspeed",
-        "type": "toggle",
-        "img": "images/items/increasedspeed.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "increasedspeed"
-    },
-    {
         "name": "drop:setboots",
         "type": "toggle",
         "img": "images/items/drop:setboots.png",
@@ -2168,38 +792,6 @@
         "codes": "jail&cathedralkey"
     },
     {
-        "name": "holybolt",
-        "type": "toggle",
-        "img": "images/items/holybolt.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "holybolt"
-    },
-    {
-        "name": "mindblast",
-        "type": "toggle",
-        "img": "images/items/mindblast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mindblast"
-    },
-    {
-        "name": "guidedarrow",
-        "type": "toggle",
-        "img": "images/items/guidedarrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "guidedarrow"
-    },
-    {
-        "name": "bladesofice",
-        "type": "toggle",
-        "img": "images/items/bladesofice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bladesofice"
-    },
-    {
         "name": "progressiveact5key(nightmare)",
         "type": "consumable",
         "img": "images/icon/key.png",
@@ -2212,30 +804,6 @@
         "codes": "progressiveact5key(nightmare)"
     },
     {
-        "name": "doubleswing",
-        "type": "toggle",
-        "img": "images/items/doubleswing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "doubleswing"
-    },
-    {
-        "name": "resistcold",
-        "type": "toggle",
-        "img": "images/items/resistcold.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "resistcold"
-    },
-    {
-        "name": "arcticblast",
-        "type": "toggle",
-        "img": "images/items/arcticblast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "arcticblast"
-    },
-    {
         "name": "progressiveact5key(hell)",
         "type": "consumable",
         "img": "images/icon/key.png",
@@ -2246,38 +814,6 @@
         "initial_quantity": 0,
         "overlay_align": "right",
         "codes": "progressiveact5key(hell)"
-    },
-    {
-        "name": "deathsentry",
-        "type": "toggle",
-        "img": "images/items/deathsentry.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "deathsentry"
-    },
-    {
-        "name": "terror",
-        "type": "toggle",
-        "img": "images/items/terror.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "terror"
-    },
-    {
-        "name": "berserk",
-        "type": "toggle",
-        "img": "images/items/berserk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "berserk"
-    },
-    {
-        "name": "chargedboltsentry",
-        "type": "toggle",
-        "img": "images/items/chargedboltsentry.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chargedboltsentry"
     },
     {
         "name": "randomjewel",
@@ -2296,14 +832,6 @@
         "codes": "drop:baalloot"
     },
     {
-        "name": "blessedhammer",
-        "type": "toggle",
-        "img": "images/items/blessedhammer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blessedhammer"
-    },
-    {
         "name": "rockywastekey",
         "type": "toggle",
         "img": "images/items/rockywastekey.png",
@@ -2320,14 +848,6 @@
         "codes": "1statpoint"
     },
     {
-        "name": "prayer",
-        "type": "toggle",
-        "img": "images/items/prayer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "prayer"
-    },
-    {
         "name": "riverofflamekey",
         "type": "toggle",
         "img": "images/items/riverofflamekey.png",
@@ -2336,28 +856,12 @@
         "codes": "riverofflamekey"
     },
     {
-        "name": "skeletonmastery",
-        "type": "toggle",
-        "img": "images/items/skeletonmastery.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "skeletonmastery"
-    },
-    {
         "name": "outersteppeskey",
         "type": "toggle",
         "img": "images/items/outersteppeskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "outersteppeskey"
-    },
-    {
-        "name": "lycanthropy",
-        "type": "toggle",
-        "img": "images/items/lycanthropy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lycanthropy"
     },
     {
         "name": "progressiveact4key(hell)",
@@ -2372,62 +876,6 @@
         "codes": "progressiveact4key(hell)"
     },
     {
-        "name": "enchant",
-        "type": "toggle",
-        "img": "images/items/enchant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "enchant"
-    },
-    {
-        "name": "chainlightning",
-        "type": "toggle",
-        "img": "images/items/chainlightning.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chainlightning"
-    },
-    {
-        "name": "concentration",
-        "type": "toggle",
-        "img": "images/items/concentration.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "concentration"
-    },
-    {
-        "name": "penetrate",
-        "type": "toggle",
-        "img": "images/items/penetrate.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "penetrate"
-    },
-    {
-        "name": "rabies",
-        "type": "toggle",
-        "img": "images/items/rabies.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rabies"
-    },
-    {
-        "name": "thunderstorm",
-        "type": "toggle",
-        "img": "images/items/thunderstorm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "thunderstorm"
-    },
-    {
-        "name": "freezingarrow",
-        "type": "toggle",
-        "img": "images/items/freezingarrow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "freezingarrow"
-    },
-    {
         "name": "drop:randomunique",
         "type": "toggle",
         "img": "images/items/drop:randomunique.png",
@@ -2436,36 +884,12 @@
         "codes": "drop:randomunique"
     },
     {
-        "name": "bonearmor",
-        "type": "toggle",
-        "img": "images/items/bonearmor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bonearmor"
-    },
-    {
         "name": "bosstoken",
         "type": "toggle",
         "img": "images/items/bosstoken.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bosstoken"
-    },
-    {
-        "name": "glacialspike",
-        "type": "toggle",
-        "img": "images/items/glacialspike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "glacialspike"
-    },
-    {
-        "name": "bonespirit",
-        "type": "toggle",
-        "img": "images/items/bonespirit.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bonespirit"
     },
     {
         "name": "progressiveact2key(normal)",
@@ -2500,52 +924,12 @@
         "codes": "firearrow"
     },
     {
-        "name": "spiritofbarbs",
-        "type": "toggle",
-        "img": "images/items/spiritofbarbs.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spiritofbarbs"
-    },
-    {
-        "name": "fireblast",
-        "type": "toggle",
-        "img": "images/items/fireblast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fireblast"
-    },
-    {
-        "name": "lowerresist",
-        "type": "toggle",
-        "img": "images/items/lowerresist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lowerresist"
-    },
-    {
-        "name": "blizzard",
-        "type": "toggle",
-        "img": "images/items/blizzard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blizzard"
-    },
-    {
         "name": "monasterykey",
         "type": "toggle",
         "img": "images/items/monasterykey.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "monasterykey"
-    },
-    {
-        "name": "summongrizzly",
-        "type": "toggle",
-        "img": "images/items/summongrizzly.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "summongrizzly"
     },
     {
         "name": "drop:mephistoloot",
@@ -2580,14 +964,6 @@
         "codes": "blackmarshkey"
     },
     {
-        "name": "criticalstrike",
-        "type": "toggle",
-        "img": "images/items/criticalstrike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "criticalstrike"
-    },
-    {
         "name": "resetpoint",
         "type": "toggle",
         "img": "images/items/resetpoint.png",
@@ -2604,44 +980,12 @@
         "codes": "drop:setarmor"
     },
     {
-        "name": "fistsoffire",
-        "type": "toggle",
-        "img": "images/items/fistsoffire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fistsoffire"
-    },
-    {
-        "name": "findpotion",
-        "type": "toggle",
-        "img": "images/items/findpotion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "findpotion"
-    },
-    {
         "name": "coldarrow",
         "type": "toggle",
         "img": "images/items/coldarrow.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "coldarrow"
-    },
-    {
-        "name": "zeal",
-        "type": "toggle",
-        "img": "images/items/zeal.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zeal"
-    },
-    {
-        "name": "fistoftheheavens",
-        "type": "toggle",
-        "img": "images/items/fistoftheheavens.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fistoftheheavens"
     },
     {
         "name": "update",

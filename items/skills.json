@@ -1,0 +1,1706 @@
+[
+    {
+        "name": "Magic Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_magic_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_magic_arrow"
+    },
+    {
+        "name": "Fire Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_fire_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_arrow"
+    },
+    {
+        "name": "Cold Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_cold_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cold_arrow"
+    },
+    {
+        "name": "Multiple Shot · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_multiple_shot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_multiple_shot"
+    },
+    {
+        "name": "Exploding Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_exploding_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_exploding_arrow"
+    },
+    {
+        "name": "Ice Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_ice_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_ice_arrow"
+    },
+    {
+        "name": "Guided Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_guided_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_guided_arrow"
+    },
+    {
+        "name": "Strafe · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_strafe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_strafe"
+    },
+    {
+        "name": "Immolation Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_immolation_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_immolation_arrow"
+    },
+    {
+        "name": "Freezing Arrow · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_freezing_arrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_freezing_arrow"
+    },
+    
+    {
+        "name": "Fire Trauma · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_fire_trauma.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_trauma"
+    },
+    {
+        "name": "Shock Field · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_shock_field.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shock_field"
+    },
+    {
+        "name": "Blade Sentinel · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_blade_sentinel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blade_sentinel"
+    },
+    {
+        "name": "Charged Bolt Sentry · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_charged_bolt_sentry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_charged_bolt_sentry"
+    },
+    {
+        "name": "Wake Of Fire Sentry · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_wake_of_fire_sentry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_wake_of_fire_sentry"
+    },
+    {
+        "name": "Blade Fury · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_blade_fury.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blade_fury"
+    },
+    {
+        "name": "Lightning Sentry · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_lightning_sentry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning_sentry"
+    },
+    {
+        "name": "Inferno Sentry · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_inferno_sentry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_inferno_sentry"
+    },
+    {
+        "name": "Death Sentry · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_death_sentry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_death_sentry"
+    },
+    {
+        "name": "Blade Shield · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_blade_shield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blade_shield"
+    },
+
+    {
+        "name": "Bash · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_bash.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bash"
+    },
+    {
+        "name": "Leap · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_leap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_leap"
+    },
+    {
+        "name": "Double Swing · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_double_swing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_double_swing"
+    },
+    {
+        "name": "Stun · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_stun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_stun"
+    },
+    {
+        "name": "Double Throw · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_double_throw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_double_throw"
+    },
+    {
+        "name": "Leap Attack · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_leap_attack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_leap_attack"
+    },
+    {
+        "name": "Concentrate · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_concentrate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_concentrate"
+    },
+    {
+        "name": "Frenzy · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_frenzy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_frenzy"
+    },
+    {
+        "name": "Whirlwind · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_whirlwind.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_whirlwind"
+    },
+    {
+        "name": "Berserk · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_berserk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_berserk"
+    },
+    
+    {
+        "name": "Raven · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_raven.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_raven"
+    },
+    {
+        "name": "Plague Poppy · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_plague_poppy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_plague_poppy"
+    },
+    {
+        "name": "Oak Sage · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_oak_sage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_oak_sage"
+    },
+    {
+        "name": "Summon Spirit Wolf · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_summon_spirit_wolf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_summon_spirit_wolf"
+    },
+    {
+        "name": "Cycle Of Life · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_cycle_of_life.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cycle_of_life"
+    },
+    {
+        "name": "Heart Of Wolverine · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_heart_of_wolverine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_heart_of_wolverine"
+    },
+    {
+        "name": "Summon Fenris · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_summon_fenris.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_summon_fenris"
+    },
+    {
+        "name": "Vines · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_vines.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_vines"
+    },
+    {
+        "name": "Spirit Of Barbs · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_spirit_of_barbs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_spirit_of_barbs"
+    },
+    {
+        "name": "Summon Grizzly · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_summon_grizzly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_summon_grizzly"
+    },
+    
+    {
+        "name": "Amplify Damage · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_amplify_damage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_amplify_damage"
+    },
+    {
+        "name": "Dim Vision · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_dim_vision.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dim_vision"
+    },
+    {
+        "name": "Weaken · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_weaken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_weaken"
+    },
+    {
+        "name": "Iron Maiden · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_iron_maiden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_iron_maiden"
+    },
+    {
+        "name": "Terror · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_terror.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_terror"
+    },
+    {
+        "name": "Confuse · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_confuse.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_confuse"
+    },
+    {
+        "name": "Life Tap · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_life_tap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_life_tap"
+    },
+    {
+        "name": "Attract · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_attract.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_attract"
+    },
+    {
+        "name": "Decrepify · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_decrepify.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_decrepify"
+    },
+    {
+        "name": "Lower Resist · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_lower_resist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lower_resist"
+    },
+    
+    {
+        "name": "Sacrifice · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_sacrifice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_sacrifice"
+    },
+    {
+        "name": "Smite · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_smite.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_smite"
+    },
+    {
+        "name": "Holy Bolt · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_holy_bolt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_holy_bolt"
+    },
+    {
+        "name": "Zeal · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_zeal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_zeal"
+    },
+    {
+        "name": "Charge · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_charge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_charge"
+    },
+    {
+        "name": "Vengeance · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_vengeance.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_vengeance"
+    },
+    {
+        "name": "Blessed Hammer · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_blessed_hammer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blessed_hammer"
+    },
+    {
+        "name": "Conversion · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_conversion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_conversion"
+    },
+    {
+        "name": "Holy Shield · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_holy_shield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_holy_shield"
+    },
+    {
+        "name": "Fist Of The Heavens · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_fist_of_the_heavens.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fist_of_the_heavens"
+    },
+    
+    {
+        "name": "Fire Bolt · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_fire_bolt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_bolt"
+    },
+    {
+        "name": "Warmth · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_warmth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_warmth"
+    },
+    {
+        "name": "Inferno · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_inferno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_inferno"
+    },
+    {
+        "name": "Blaze · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_blaze.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blaze"
+    },
+    {
+        "name": "Fire Ball · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_fire_ball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_ball"
+    },
+    {
+        "name": "Fire Wall · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_fire_wall.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_wall"
+    },
+    {
+        "name": "Enchant · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_enchant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_enchant"
+    },
+    {
+        "name": "Meteor · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_meteor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_meteor"
+    },
+    {
+        "name": "Fire Mastery · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_fire_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_mastery"
+    },
+    {
+        "name": "Hydra · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_hydra.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_hydra"
+    },
+
+
+
+    {
+        "name": "Inner Sight · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_inner_sight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_inner_sight"
+    },
+    {
+        "name": "Critical Strike · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_critical_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_critical_strike"
+    },
+    {
+        "name": "Dodge · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_dodge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dodge"
+    },
+    {
+        "name": "Slow Missiles · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_slow_missiles.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_slow_missiles"
+    },
+    {
+        "name": "Avoid · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_avoid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_avoid"
+    },
+    {
+        "name": "Penetrate · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_penetrate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_penetrate"
+    },
+    {
+        "name": "Dopplezon(Decoy) · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_dopplezon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dopplezon"
+    },
+    {
+        "name": "Evade · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_evade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_evade"
+    },
+    {
+        "name": "Valkyrie · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_valkyrie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_valkyrie"
+    },
+    {
+        "name": "Pierce · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_pierce.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_pierce"
+    },
+    
+    {
+        "name": "Claw Mastery · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_claw_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_claw_mastery"
+    },
+    {
+        "name": "Psychic Hammer · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_psychic_hammer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_psychic_hammer"
+    },
+    {
+        "name": "Quickness · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_quickness.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_quickness"
+    },
+    {
+        "name": "Weapon Block · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_weapon_block.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_weapon_block"
+    },
+    {
+        "name": "Cloak Of Shadows · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_cloak_of_shadows.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cloak_of_shadows"
+    },
+    {
+        "name": "Fade · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_fade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fade"
+    },
+    {
+        "name": "Shadow Warrior · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_shadow_warrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shadow_warrior"
+    },
+    {
+        "name": "Mind Blast · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_mind_blast.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_mind_blast"
+    },
+    {
+        "name": "Venom · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_venom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_venom"
+    },
+    {
+        "name": "Shadow Master · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_shadow_master.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shadow_master"
+    },
+    
+    {
+        "name": "Sword Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_sword_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_sword_mastery"
+    },
+    {
+        "name": "Axe Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_axe_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_axe_mastery"
+    },
+    {
+        "name": "Mace Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_mace_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_mace_mastery"
+    },
+    {
+        "name": "Pole Arm Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_pole_arm_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_pole_arm_mastery"
+    },
+    {
+        "name": "Throwing Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_throwing_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_throwing_mastery"
+    },
+    {
+        "name": "Spear Mastery · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_spear_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_spear_mastery"
+    },
+    {
+        "name": "Increased Stamina · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_increased_stamina.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_increased_stamina"
+    },
+    {
+        "name": "Iron Skin · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_iron_skin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_iron_skin"
+    },
+    {
+        "name": "Increased Speed · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_increased_speed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_increased_speed"
+    },
+    {
+        "name": "Natural Resistance · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_natural_resistance.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_natural_resistance"
+    },
+
+    {
+        "name": "Wearwolf · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_wearwolf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_wearwolf"
+    },
+    {
+        "name": "Lycanthropy · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_shape_shifting.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shape_shifting"
+    },
+    {
+        "name": "Wearbear · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_wearbear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_wearbear"
+    },
+    {
+        "name": "Feral Rage · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_feral_rage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_feral_rage"
+    },
+    {
+        "name": "Maul · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_maul.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_maul"
+    },
+    {
+        "name": "Rabies · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_rabies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_rabies"
+    },
+    {
+        "name": "Fire Claws · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_fire_claws.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_claws"
+    },
+    {
+        "name": "Hunger · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_hunger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_hunger"
+    },
+    {
+        "name": "Shock Wave · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_shock_wave.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shock_wave"
+    },
+    {
+        "name": "Fury · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_fury.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fury"
+    },
+    
+    {
+        "name": "Teeth · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_teeth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_teeth"
+    },
+    {
+        "name": "Bone Armor · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bone_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bone_armor"
+    },
+    {
+        "name": "Poison Dagger · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_poison_dagger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_poison_dagger"
+    },
+    {
+        "name": "Corpse Explosion · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_corpse_explosion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_corpse_explosion"
+    },
+    {
+        "name": "Bone Wall · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bone_wall.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bone_wall"
+    },
+    {
+        "name": "Poison Explosion · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_poison_explosion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_poison_explosion"
+    },
+    {
+        "name": "Bone Spear · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bone_spear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bone_spear"
+    },
+    {
+        "name": "Bone Prison · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bone_prison.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bone_prison"
+    },
+    {
+        "name": "Poison Nova · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_poison_nova.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_poison_nova"
+    },
+    {
+        "name": "Bone Spirit · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bone_spirit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_bone_spirit"
+    },
+    
+    {
+        "name": "Might · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_might.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_might"
+    },
+    {
+        "name": "Holy Fire · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_holy_fire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_holy_fire"
+    },
+    {
+        "name": "Thorns · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_thorns.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_thorns"
+    },
+    {
+        "name": "Blessed Aim · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_blessed_aim.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blessed_aim"
+    },
+    {
+        "name": "Concentration · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_concentration.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_concentration"
+    },
+    {
+        "name": "Holy Freeze · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_holy_freeze.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_holy_freeze"
+    },
+    {
+        "name": "Holy Shock · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_holy_shock.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_holy_shock"
+    },
+    {
+        "name": "Sanctuary · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_sanctuary.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_sanctuary"
+    },
+    {
+        "name": "Fanaticism · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_fanaticism.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fanaticism"
+    },
+    {
+        "name": "Conviction · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_conviction.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_conviction"
+    },
+
+    {
+        "name": "Charged Bolt · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_charged_bolt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_charged_bolt"
+    },
+    {
+        "name": "Static Field · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_static_field.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_static_field"
+    },
+    {
+        "name": "Telekinesis · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_telekinesis.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_telekinesis"
+    },
+    {
+        "name": "Nova · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_nova.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_nova"
+    },
+    {
+        "name": "Lightning · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_lightning.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning"
+    },
+    {
+        "name": "Chain Lightning · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_chain_lightning.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_chain_lightning"
+    },
+    {
+        "name": "Teleport · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_teleport.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_teleport"
+    },
+    {
+        "name": "Thunder Storm · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_thunder_storm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_thunder_storm"
+    },
+    {
+        "name": "Energy Shield · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_energy_shield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_energy_shield"
+    },
+    {
+        "name": "Lightning Mastery · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_lightning_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning_mastery"
+    },
+
+
+
+    {
+        "name": "Jab · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_jab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_jab"
+    },
+    {
+        "name": "Power Strike · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_power_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_power_strike"
+    },
+    {
+        "name": "Poison Javelin · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_poison_javelin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_poison_javelin"
+    },
+    {
+        "name": "Impale · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_impale.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_impale"
+    },
+    {
+        "name": "Lightning Bolt · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_lightning_bolt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning_bolt"
+    },
+    {
+        "name": "Charged Strike · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_charged_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_charged_strike"
+    },
+    {
+        "name": "Plague Javelin · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_plague_javelin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_plague_javelin"
+    },
+    {
+        "name": "Fend · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_fend.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fend"
+    },
+    {
+        "name": "Lightning Strike · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_lightning_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning_strike"
+    },
+    {
+        "name": "Lightning Fury · Amazon",
+        "type": "toggle",
+        "img": "images/skills/ama_lightning_fury.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_lightning_fury"
+    },
+    
+    {
+        "name": "Tiger Strike · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_tiger_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_tiger_strike"
+    },
+    {
+        "name": "Dragon Talon · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_dragon_talon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dragon_talon"
+    },
+    {
+        "name": "Fists Of Fire · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_fists_of_fire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fists_of_fire"
+    },
+    {
+        "name": "Dragon Claw · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_dragon_claw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dragon_claw"
+    },
+    {
+        "name": "Cobra Strike · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_cobra_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cobra_strike"
+    },
+    {
+        "name": "Claws Of Thunder · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_claws_of_thunder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_claws_of_thunder"
+    },
+    {
+        "name": "Dragon Tail · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_dragon_tail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dragon_tail"
+    },
+    {
+        "name": "Blades Of Ice · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_blades_of_ice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blades_of_ice"
+    },
+    {
+        "name": "Dragon Flight · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_dragon_flight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_dragon_flight"
+    },
+    {
+        "name": "Royal(Phoenix) Strike · Assassin",
+        "type": "toggle",
+        "img": "images/skills/ass_royal_strike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_royal_strike"
+    },
+    
+    {
+        "name": "Howl · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_howl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_howl"
+    },
+    {
+        "name": "Find Potion · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_find_potion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_find_potion"
+    },
+    {
+        "name": "Taunt · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_taunt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_taunt"
+    },
+    {
+        "name": "Shout · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_shout.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shout"
+    },
+    {
+        "name": "Find Item · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_find_item.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_find_item"
+    },
+    {
+        "name": "Battle Cry · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_battle_cry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_battle_cry"
+    },
+    {
+        "name": "Battle Orders · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_battle_orders.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_battle_orders"
+    },
+    {
+        "name": "Grim Ward · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_grim_ward.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_grim_ward"
+    },
+    {
+        "name": "War Cry · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_war_cry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_war_cry"
+    },
+    {
+        "name": "Battle Command · Barbarian",
+        "type": "toggle",
+        "img": "images/skills/bar_battle_command.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_battle_command"
+    },
+    
+    {
+        "name": "Firestorm · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_firestorm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_firestorm"
+    },
+    {
+        "name": "Molten Boulder · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_molten_boulder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_molten_boulder"
+    },
+    {
+        "name": "Arctic Blast · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_arctic_blast.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_arctic_blast"
+    },
+    {
+        "name": "Eruption(Fissure) · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_eruption.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_eruption"
+    },
+    {
+        "name": "Cyclone Armor · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_cyclone_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cyclone_armor"
+    },
+    {
+        "name": "Twister · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_twister.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_twister"
+    },
+    {
+        "name": "Volcano · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_volcano.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_volcano"
+    },
+    {
+        "name": "Tornado · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_tornado.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_tornado"
+    },
+    {
+        "name": "Armageddon · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_armageddon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_armageddon"
+    },
+    {
+        "name": "Hurricane · Druid",
+        "type": "toggle",
+        "img": "images/skills/dru_hurricane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_hurricane"
+    },
+    
+    {
+        "name": "Skeleton Mastery · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_skeleton_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_skeleton_mastery"
+    },
+    {
+        "name": "Raise Skeleton · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_raise_skeleton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_raise_skeleton"
+    },
+    {
+        "name": "Clay Golem · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_clay_golem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_clay_golem"
+    },
+    {
+        "name": "Golem Mastery · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_golem_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_golem_mastery"
+    },
+    {
+        "name": "Raise Skeletal Mage · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_raise_skeletal_mage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_raise_skeletal_mage"
+    },
+    {
+        "name": "Blood Golem · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_bloodgolem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blood_golem"
+    },
+    {
+        "name": "Summon Resist · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_summon_resist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_summon_resist"
+    },
+    {
+        "name": "Iron Golem · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_irongolem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_iron_golem"
+    },
+    {
+        "name": "Fire Golem · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_firegolem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_fire_golem"
+    },
+    {
+        "name": "Revive · Necromancer",
+        "type": "toggle",
+        "img": "images/skills/nec_revive.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_revive"
+    },
+    
+    {
+        "name": "Prayer · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_prayer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_prayer"
+    },
+    {
+        "name": "Resist Fire · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_resist_fire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_resist_fire"
+    },
+    {
+        "name": "Defiance · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_defiance.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_defiance"
+    },
+    {
+        "name": "Resist Cold · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_resist_cold.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_resist_cold"
+    },
+    {
+        "name": "Cleansing · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_cleansing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cleansing"
+    },
+    {
+        "name": "Resist Lightning · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_resist_lightning.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_resist_lightning"
+    },
+    {
+        "name": "Vigor · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_vigor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_vigor"
+    },
+    {
+        "name": "Meditation · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_meditation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_meditation"
+    },
+    {
+        "name": "Redemption · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_redemption.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_redemption"
+    },
+    {
+        "name": "Salvation · Paladin",
+        "type": "toggle",
+        "img": "images/skills/pal_salvation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_salvation"
+    },
+
+    {
+        "name": "Ice Bolt · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_ice_bolt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_ice_bolt"
+    },
+    {
+        "name": "Frozen Armor · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_frozen_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_frozen_armor"
+    },
+    {
+        "name": "Frost Nova · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_frost_nova.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_frost_nova"
+    },
+    {
+        "name": "Ice Blast · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_ice_blast.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_ice_blast"
+    },
+    {
+        "name": "Shiver Armor · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_shiver_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_shiver_armor"
+    },
+    {
+        "name": "Glacial Spike · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_glacial_spike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_glacial_spike"
+    },
+    {
+        "name": "Blizzard · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_blizzard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_blizzard"
+    },
+    {
+        "name": "Chilling Armor · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_chilling_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_chilling_armor"
+    },
+    {
+        "name": "Frozen Orb · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_frozen_orb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_frozen_orb"
+    },
+    {
+        "name": "Cold Mastery · Sorceress",
+        "type": "toggle",
+        "img": "images/skills/sor_cold_mastery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skill_cold_mastery"
+    }
+]

@@ -12,6 +12,13 @@
                 }
             },
             {
+                "title": "Skills",
+                "content": {
+                    "type": "layout",
+                    "key": "skills_grid"
+                }
+            },
+            {
                 "title": "Act 1",
                 "content": {
                     "type": "map",
@@ -68,6 +75,13 @@
                     "maps": [
                         "Overworld"
                     ]
+                }
+            },
+            {
+                "title": "Skills",
+                "content": {
+                    "type": "layout",
+                    "key": "skills_grid"
                 }
             },
             {

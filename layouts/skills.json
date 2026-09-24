@@ -1,0 +1,305 @@
+{
+    "skills_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "group",
+                "header": "Tier 1",
+                "content": {
+                    "type": "itemgrid",
+                    "rows": [
+                        [
+                            "skill_magic_arrow",
+                            "skill_fire_arrow",
+                            "skill_cold_arrow",
+                            "skill_multiple_shot",
+                            "skill_exploding_arrow",
+                            "skill_ice_arrow",
+                            "skill_guided_arrow",
+                            "skill_strafe",
+                            "skill_immolation_arrow",
+                            "skill_freezing_arrow"
+                        ],
+                        [
+                            "skill_fire_trauma",
+                            "skill_shock_field",
+                            "skill_blade_sentinel",
+                            "skill_charged_bolt_sentry",
+                            "skill_wake_of_fire_sentry",
+                            "skill_blade_fury",
+                            "skill_lightning_sentry",
+                            "skill_inferno_sentry",
+                            "skill_death_sentry",
+                            "skill_blade_shield"
+                        ],
+                        [
+                            "skill_bash",
+                            "skill_leap",
+                            "skill_double_swing",
+                            "skill_stun",
+                            "skill_double_throw",
+                            "skill_leap_attack",
+                            "skill_concentrate",
+                            "skill_frenzy",
+                            "skill_whirlwind",
+                            "skill_berserk"
+                        ],
+                        [
+                            "skill_raven",
+                            "skill_plague_poppy",
+                            "skill_oak_sage",
+                            "skill_summon_spirit_wolf",
+                            "skill_cycle_of_life",
+                            "skill_heart_of_wolverine",
+                            "skill_summon_fenris",
+                            "skill_vines",
+                            "skill_spirit_of_barbs",
+                            "skill_summon_grizzly"
+                        ],
+                        [
+                            "skill_amplify_damage",
+                            "skill_dim_vision",
+                            "skill_weaken",
+                            "skill_iron_maiden",
+                            "skill_terror",
+                            "skill_confuse",
+                            "skill_life_tap",
+                            "skill_attract",
+                            "skill_decrepify",
+                            "skill_lower_resist"
+                        ],
+                        [
+                            "skill_sacrifice",
+                            "skill_smite",
+                            "skill_holy_bolt",
+                            "skill_zeal",
+                            "skill_charge",
+                            "skill_vengeance",
+                            "skill_blessed_hammer",
+                            "skill_conversion",
+                            "skill_holy_shield",
+                            "skill_fist_of_the_heavens"
+                        ],
+                        [
+                            "skill_fire_bolt",
+                            "skill_warmth",
+                            "skill_inferno",
+                            "skill_blaze",
+                            "skill_fire_ball",
+                            "skill_fire_wall",
+                            "skill_enchant",
+                            "skill_meteor",
+                            "skill_fire_mastery",
+                            "skill_hydra"
+                        ]
+                    ],
+                    "item_width": 48,
+                    "item_height": 48,
+                    "item_margin": "2,2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Tier 2",
+                "content": {
+                    "type": "itemgrid",
+                    "rows": [
+                        [
+                            "skill_inner_sight",
+                            "skill_critical_strike",
+                            "skill_dodge",
+                            "skill_slow_missiles",
+                            "skill_avoid",
+                            "skill_penetrate",
+                            "skill_dopplezon",
+                            "skill_evade",
+                            "skill_valkyrie",
+                            "skill_pierce"
+                        ],
+                        [
+                            "skill_claw_mastery",
+                            "skill_psychic_hammer",
+                            "skill_quickness",
+                            "skill_weapon_block",
+                            "skill_cloak_of_shadows",
+                            "skill_fade",
+                            "skill_shadow_warrior",
+                            "skill_mind_blast",
+                            "skill_venom",
+                            "skill_shadow_master"
+                        ],
+                        [
+                            "skill_sword_mastery",
+                            "skill_axe_mastery",
+                            "skill_mace_mastery",
+                            "skill_pole_arm_mastery",
+                            "skill_throwing_mastery",
+                            "skill_spear_mastery",
+                            "skill_increased_stamina",
+                            "skill_iron_skin",
+                            "skill_increased_speed",
+                            "skill_natural_resistance"
+                        ],
+                        [
+                            "skill_wearwolf",
+                            "skill_shape_shifting",
+                            "skill_wearbear",
+                            "skill_feral_rage",
+                            "skill_maul",
+                            "skill_rabies",
+                            "skill_fire_claws",
+                            "skill_hunger",
+                            "skill_shock_wave",
+                            "skill_fury"
+                        ],
+                        [
+                            "skill_teeth",
+                            "skill_bone_armor",
+                            "skill_poison_dagger",
+                            "skill_corpse_explosion",
+                            "skill_bone_wall",
+                            "skill_poison_explosion",
+                            "skill_bone_spear",
+                            "skill_bone_prison",
+                            "skill_poison_nova",
+                            "skill_bone_spirit"
+                        ],
+                        [
+                            "skill_might",
+                            "skill_holy_fire",
+                            "skill_thorns",
+                            "skill_blessed_aim",
+                            "skill_concentration",
+                            "skill_holy_freeze",
+                            "skill_holy_shock",
+                            "skill_sanctuary",
+                            "skill_fanaticism",
+                            "skill_conviction"
+                        ],
+                        [
+                            "skill_charged_bolt",
+                            "skill_static_field",
+                            "skill_telekinesis",
+                            "skill_nova",
+                            "skill_lightning",
+                            "skill_chain_lightning",
+                            "skill_teleport",
+                            "skill_thunder_storm",
+                            "skill_energy_shield",
+                            "skill_lightning_mastery"
+                        ]
+                    ],
+                    "item_width": 48,
+                    "item_height": 48,
+                    "item_margin": "2,2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Tier 3",
+                "content": {
+                    "type": "itemgrid",
+                    "rows": [
+                        [
+                            "skill_jab",
+                            "skill_power_strike",
+                            "skill_poison_javelin",
+                            "skill_impale",
+                            "skill_lightning_bolt",
+                            "skill_charged_strike",
+                            "skill_plague_javelin",
+                            "skill_fend",
+                            "skill_lightning_strike",
+                            "skill_lightning_fury"
+                        ],
+                        [
+                            "skill_tiger_strike",
+                            "skill_dragon_talon",
+                            "skill_fists_of_fire",
+                            "skill_dragon_claw",
+                            "skill_cobra_strike",
+                            "skill_claws_of_thunder",
+                            "skill_dragon_tail",
+                            "skill_blades_of_ice",
+                            "skill_dragon_flight",
+                            "skill_royal_strike"
+                        ],
+                        [
+                            "skill_howl",
+                            "skill_find_potion",
+                            "skill_taunt",
+                            "skill_shout",
+                            "skill_find_item",
+                            "skill_battle_cry",
+                            "skill_battle_orders",
+                            "skill_grim_ward",
+                            "skill_war_cry",
+                            "skill_battle_command"
+                        ],
+                        [
+                            "skill_firestorm",
+                            "skill_molten_boulder",
+                            "skill_arctic_blast",
+                            "skill_eruption",
+                            "skill_cyclone_armor",
+                            "skill_twister",
+                            "skill_volcano",
+                            "skill_tornado",
+                            "skill_armageddon",
+                            "skill_hurricane"
+                        ],
+                        [
+                            "skill_skeleton_mastery",
+                            "skill_raise_skeleton",
+                            "skill_clay_golem",
+                            "skill_golem_mastery",
+                            "skill_raise_skeletal_mage",
+                            "skill_blood_golem",
+                            "skill_summon_resist",
+                            "skill_iron_golem",
+                            "skill_fire_golem",
+                            "skill_revive"
+                        ],
+                        [
+                            "skill_prayer",
+                            "skill_resist_fire",
+                            "skill_defiance",
+                            "skill_resist_cold",
+                            "skill_cleansing",
+                            "skill_resist_lightning",
+                            "skill_vigor",
+                            "skill_meditation",
+                            "skill_redemption",
+                            "skill_salvation"
+                        ],
+                        [
+                            "skill_ice_bolt",
+                            "skill_frozen_armor",
+                            "skill_frost_nova",
+                            "skill_ice_blast",
+                            "skill_shiver_armor",
+                            "skill_glacial_spike",
+                            "skill_blizzard",
+                            "skill_chilling_armor",
+                            "skill_frozen_orb",
+                            "skill_cold_mastery"
+                        ]
+                    ],
+                    "item_width": 48,
+                    "item_height": 48,
+                    "item_margin": "2,2",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center"
+                }
+            }
+        ]
+    }
+}
