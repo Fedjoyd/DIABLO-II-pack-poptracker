@@ -1,0 +1,215 @@
+{
+    "shared_zone_key_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "key_coldplains",
+                                "key_burialgrounds",
+                                "key_stonyfield",
+                                "key_darkwood",
+                                "key_blackmarsh",
+                                "key_tristram",
+                                "key_monastery",
+                                "key_jail&cathedral",
+                                "key_catacombs",
+                                "key_andarielslair",
+                                "key_rockywaste",
+                                "key_dryhills"
+                            ],    
+                            [
+                                "key_faroasis",
+                                "key_lostcity",
+                                "key_palace",
+                                "key_arcanesanctuary",
+                                "key_canyonofthemagi",
+                                "key_durielslair",
+                                "key_spiderforest",
+                                "key_jungle",
+                                "key_kurast",
+                                "key_upperkurast",
+                                "key_travincal",
+                                "key_duranceofhate"
+                            ],  
+                            [
+                                "key_outersteppes",
+                                "key_cityofthedamned",
+                                "key_riverofflame",
+                                "key_chaossanctuary",
+                                "key_bloodyfoothills",
+                                "key_highlands",
+                                "key_caverns",
+                                "key_summit",
+                                "key_nihlathak",
+                                "key_worldstonekeep",
+                                "key_throneofdestruction"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_zone_key_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "key_coldplains",
+                                "key_burialgrounds",
+                                "key_stonyfield"
+                            ],
+                            [
+                                "key_darkwood",
+                                "key_blackmarsh",
+                                "key_tristram"
+                            ],
+                            [
+                                "key_monastery",
+                                "key_jail&cathedral",
+                                "key_catacombs"
+                            ],
+                            [
+                                "key_andarielslair",
+                                "key_rockywaste",
+                                "key_dryhills"
+                            ],
+                            [
+                                "key_faroasis",
+                                "key_lostcity",
+                                "key_palace"
+                            ],
+                            [
+                                "key_arcanesanctuary",
+                                "key_canyonofthemagi",
+                                "key_durielslair"
+                            ],
+                            [
+                                "key_spiderforest",
+                                "key_jungle",
+                                "key_kurast"
+                            ],
+                            [
+                                "key_upperkurast",
+                                "key_travincal",
+                                "key_duranceofhate"
+                            ],
+                            [
+                                "key_outersteppes",
+                                "key_cityofthedamned",
+                                "key_riverofflame"
+                            ],
+                            [
+                                "key_chaossanctuary",
+                                "key_bloodyfoothills",
+                                "key_highlands"
+                            ],
+                            [
+                                "key_caverns",
+                                "key_summit",
+                                "key_nihlathak"
+                            ],
+                            [
+                                "key_worldstonekeep",
+                                "key_throneofdestruction"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "broadcast_zone_key": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "key_coldplains",
+                                "key_burialgrounds",
+                                "key_stonyfield",
+                                "key_darkwood",
+                                "key_blackmarsh",
+                                "key_tristram",
+                                "key_monastery",
+                                "key_jail&cathedral",
+                                "key_catacombs",
+                                "key_andarielslair",
+                                "key_rockywaste",
+                                "key_dryhills",
+                                "key_faroasis",
+                                "key_lostcity",
+                                "key_palace",
+                                "key_arcanesanctuary",
+                                "key_canyonofthemagi",
+                                "key_durielslair",
+                                "key_spiderforest",
+                                "key_jungle",
+                                "key_kurast",
+                                "key_upperkurast",
+                                "key_travincal",
+                                "key_duranceofhate",
+                                "key_outersteppes",
+                                "key_cityofthedamned",
+                                "key_riverofflame",
+                                "key_chaossanctuary",
+                                "key_bloodyfoothills",
+                                "key_highlands",
+                                "key_caverns",
+                                "key_summit",
+                                "key_nihlathak",
+                                "key_worldstonekeep",
+                                "key_throneofdestruction"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

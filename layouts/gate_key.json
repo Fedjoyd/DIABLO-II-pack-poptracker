@@ -94,5 +94,48 @@
                 ]
             }
         ]
+    },
+
+    "broadcast_gate_key": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressiveact1key(normal)",
+                                "progressiveact2key(normal)",
+                                "progressiveact3key(normal)",
+                                "progressiveact4key(normal)",
+                                "progressiveact5key(normal)",
+                                "progressiveact1key(nightmare)",
+                                "progressiveact2key(nightmare)",
+                                "progressiveact3key(nightmare)",
+                                "progressiveact4key(nightmare)",
+                                "progressiveact5key(nightmare)",
+                                "progressiveact1key(hell)",
+                                "progressiveact2key(hell)",
+                                "progressiveact3key(hell)",
+                                "progressiveact4key(hell)",
+                                "progressiveact5key(hell)"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }

@@ -1,15 +1,25 @@
 {
     "name": "Diablo II Archipelago Archipelago",
     "game_name": "Diablo II Archipelago",
-    "package_version": "0.9.1",
+    "package_version": "0.9.4",
     "package_uid": "diablo ii archipelago_ap",
     "author": "Fedjoyd",
     "variants": {
-        "Map Tracker": {
-            "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
+        "Map Tracker FB": {
+            "display_name": "Map Tracker (full broadcast)",
+            "flags": [ "ap" ]
+        },
+        "Map Tracker KB": {
+            "display_name": "Map Tracker (key broadcast)",
+            "flags": [ "ap" ]
+        },
+        "Map Tracker SB": {
+            "display_name": "Map Tracker (skill broadcast)",
+            "flags": [ "ap" ]
+        },
+        "Map Tracker NB": {
+            "display_name": "Map Tracker (no broadcast)",
+            "flags": [ "ap" ]
         }
     },
     "versions_url": "https://raw.githubusercontent.com/Fedjoyd/DIABLO-II-pack-poptracker/refs/heads/main/versions.json",

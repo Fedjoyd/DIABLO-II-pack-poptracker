@@ -22,21 +22,11 @@
                         },
                         {
                             "type": "group",
-                            "header": "Settings",
+                            "header": "Zones key",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "setting_grid"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Pinned Locations",
-                            "content": {
-                                "style": "wrap",
-                                "type": "recentpins",
-                                "orientation": "vertical",
-                                "compact": true
+                                "key": "shared_zone_key_grid_vertical"
                             }
                         }
                     ]
@@ -78,14 +68,14 @@
                         },
                         {
                             "type": "group",
-                            "header": "Settings",
+                            "header": "Zones key",
                             "dock": "left",
                             "margin": "0,0,3,0",
                             "content": {
                                 "type": "layout",
                                 "h_alignment": "center",
                                 "v_alignment": "center",
-                                "key": "setting_grid"
+                                "key": "shared_zone_key_grid_horizontal"
                             }
                         }
                     ]
