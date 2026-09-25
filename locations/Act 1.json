@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Act 1 (Normal)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 105,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 1 (Nightmare)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessNightmare"
+        ],
+        "visibility_rules": [
+            "$IsNightmareEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 205,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 1 (Hell)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessHell"
+        ],
+        "visibility_rules": [
+            "$IsHellEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 305,
+                "y": 105
+            }
+        ]
+    },
+    
+    {
+        "name": "Den of Evil",
+        "chest_unopened_img": "/images/quests/a1q1.png",
+        "chest_opened_img": "/images/quests/a1q1_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 105,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Sisters Burial Grounds",
+        "chest_unopened_img": "/images/quests/a1q2.png",
+        "chest_opened_img": "/images/quests/a1q2_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Den of Evil/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Den of Evil/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Den of Evil/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 205,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "The Search for Cain",
+        "chest_unopened_img": "/images/quests/a1q3.png",
+        "chest_opened_img": "/images/quests/a1q3_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters Burial Grounds/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters Burial Grounds/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters Burial Grounds/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 305,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "The Forgotten Tower",
+        "chest_unopened_img": "/images/quests/a1q4.png",
+        "chest_opened_img": "/images/quests/a1q4_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasEnterZone|1|Stony Field/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasEnterZone|1|Stony Field/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasEnterZone|1|Stony Field/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 105,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "Tools of the Trade",
+        "chest_unopened_img": "/images/quests/a1q5.png",
+        "chest_opened_img": "/images/quests/a1q5_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Search for Cain/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Search for Cain/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Search for Cain/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 205,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "Sisters to the Slaughter",
+        "chest_unopened_img": "/images/quests/a1q6.png",
+        "chest_opened_img": "/images/quests/a1q6_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Tools of the Trade/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Tools of the Trade/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Tools of the Trade/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 1",
+                "x": 305,
+                "y": 405
+            }
+        ]
+    }
+]

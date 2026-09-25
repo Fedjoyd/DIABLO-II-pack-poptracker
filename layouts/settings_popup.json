@@ -1,0 +1,67 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "orientation": "horizontal",
+        "h_alignment": "left",
+        "content": [
+            {
+                "type": "group",
+                "header": "Global config",
+                "dock": "bottom",
+                "content": [
+                    {
+				        "type": "itemgrid",
+				        "item_size": "300,100",
+				        "rows": [
+                            [ "optionGoalFullNormal" ],
+                            [ "useZoneLocking" ]
+                        ]
+                    },
+                    {
+				        "type": "itemgrid",
+				        "item_size": "300,50",
+				        "rows": [
+                            [ "useHuntingQuests" ],
+                            [ "useLevelMilestoneQuests" ]
+                        ]
+                    },
+                    {
+				        "type": "itemgrid",
+				        "item_size": "300,100",
+				        "rows": [
+                            [ "useKillZoneQuests" ],
+                            [ "useExplorationQuests" ],
+                            [ "useWaypointQuests" ]
+                        ]
+                    }
+                ]
+			},
+            {
+	 	        "type": "group",
+                "header": "Bonus checks",
+                "dock": "bottom",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_size": "200,50",
+                        "rows": [
+                            [ "useShrines", "useUrns" ],
+                            [ "useBarrels", "useChests" ],
+                            [ "useSetPickups", "useCowLevel" ],
+                            [ "useCubeRecipes" ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_size": "200,100",
+                        "rows": [
+                            [ "useGoldMilestones", "useMercMilestones" ],
+                            [ "useHellforgeAndHighRunes", "useNPCDialogue" ],
+                            [ "useRunewordCrafting" ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

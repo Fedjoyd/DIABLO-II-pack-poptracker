@@ -1,0 +1,280 @@
+[
+    {
+        "name": "Waypoint (Act 1)",
+        "chest_unopened_img": "/images/icon/waypoint_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/waypoint_46A6DC.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$UseWaypointQuests"
+        ],
+        "children": [
+            {
+                "name": "Cold Plains",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 505,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Stony Field",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 605,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Dark Wood",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 705,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Black Marsh",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 805,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Outer Cloister",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 905,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Jail Level 1",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 1005,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Inner Cloister",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 1105,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Level 2",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|1|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|1|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|1|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1",
+                        "x": 1205,
+                        "y": 105
+                    }
+                ]
+            }
+        ]
+    }
+]

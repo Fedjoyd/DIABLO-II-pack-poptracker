@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Clear (Act 4)",
+        "chest_unopened_img": "/images/icon/boss_B0392B.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$UseKillZoneQuests"
+        ],
+        "children": [
+            {
+                "name": "Outer Steppes",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 4",
+                        "x": 105,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Despair",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 4",
+                        "x": 205,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "City of the Damned",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|4|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|4|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|4|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 4",
+                        "x": 305,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "River of Flame",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|4|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|4|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|4|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 4",
+                        "x": 405,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Sanctuary",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|4|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|4|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|4|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 4",
+                        "x": 505,
+                        "y": 605
+                    }
+                ]
+            }
+        ]
+    }
+]

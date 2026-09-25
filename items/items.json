@@ -1,0 +1,998 @@
+[
+    {
+        "name": "drop:setjewelry",
+        "type": "toggle",
+        "img": "images/items/drop:setjewelry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setjewelry"
+    },
+    {
+        "name": "flawlessgem",
+        "type": "toggle",
+        "img": "images/items/flawlessgem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flawlessgem"
+    },
+    {
+        "name": "KEY : Lost City",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_lostcity"
+    },
+    {
+        "name": "KEY : Summit",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_summit"
+    },
+    {
+        "name": "drop:uniquehelm",
+        "type": "toggle",
+        "img": "images/items/drop:uniquehelm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniquehelm"
+    },
+    {
+        "name": "3skillpoints",
+        "type": "toggle",
+        "img": "images/items/3skillpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3skillpoints"
+    },
+    {
+        "name": "KEY : Arcane Sanctuary",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_arcanesanctuary"
+    },
+    {
+        "name": "drop:randomsetitem",
+        "type": "toggle",
+        "img": "images/items/drop:randomsetitem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:randomsetitem"
+    },
+    {
+        "name": "drop:diabloloot",
+        "type": "toggle",
+        "img": "images/items/drop:diabloloot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:diabloloot"
+    },
+    {
+        "name": "KEY : Jungle",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_jungle"
+    },
+    {
+        "name": "KEY : Durance Of Hate",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_duranceofhate"
+    },
+    {
+        "name": "Keys Gates Act 5 (Normal)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact5key(normal)"
+    },
+    {
+        "name": "randomgem",
+        "type": "toggle",
+        "img": "images/items/randomgem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "randomgem"
+    },
+    {
+        "name": "KEY : Nihlathak",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_nihlathak"
+    },
+    {
+        "name": "Keys Gates Act 1 (Hell)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact1key(hell)"
+    },
+    {
+        "name": "fullrejuvenationpotions",
+        "type": "toggle",
+        "img": "images/items/fullrejuvenationpotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fullrejuvenationpotions"
+    },
+    {
+        "name": "grandcharm",
+        "type": "toggle",
+        "img": "images/items/grandcharm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grandcharm"
+    },
+    {
+        "name": "5statpoints",
+        "type": "toggle",
+        "img": "images/items/5statpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "5statpoints"
+    },
+    {
+        "name": "Keys Gates Act 1 (Normal)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact1key(normal)"
+    },
+    {
+        "name": "KEY : Catacombs",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_catacombs"
+    },
+    {
+        "name": "KEY : Throne Of Destruction",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_throneofdestruction"
+    },
+    {
+        "name": "greaterhealingpotions",
+        "type": "toggle",
+        "img": "images/items/greaterhealingpotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greaterhealingpotions"
+    },
+    {
+        "name": "KEY : Andariel's Lair",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_andarielslair"
+    },
+    {
+        "name": "KEY : Kurast",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_kurast"
+    },
+    {
+        "name": "drop:setweapon",
+        "type": "toggle",
+        "img": "images/items/drop:setweapon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setweapon"
+    },
+    {
+        "name": "randomrune",
+        "type": "toggle",
+        "img": "images/items/randomrune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "randomrune"
+    },
+    {
+        "name": "drop:setbelt",
+        "type": "toggle",
+        "img": "images/items/drop:setbelt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setbelt"
+    },
+    {
+        "name": "randomrune(high)",
+        "type": "toggle",
+        "img": "images/items/randomrune(high).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "randomrune(high)"
+    },
+    {
+        "name": "drop:durielloot",
+        "type": "toggle",
+        "img": "images/items/drop:durielloot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:durielloot"
+    },
+    {
+        "name": "tomeofidentify",
+        "type": "toggle",
+        "img": "images/items/tomeofidentify.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tomeofidentify"
+    },
+    {
+        "name": "KEY : Canyon Of The Magi",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_canyonofthemagi"
+    },
+    {
+        "name": "drop:uniqueshield",
+        "type": "toggle",
+        "img": "images/items/drop:uniqueshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniqueshield"
+    },
+    {
+        "name": "trap:junkbackpack",
+        "type": "toggle",
+        "img": "images/items/trap:junkbackpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:junkbackpack"
+    },
+    {
+        "name": "3resetpoints",
+        "type": "toggle",
+        "img": "images/items/3resetpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3resetpoints"
+    },
+    {
+        "name": "KEY : Stonyfield",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_stonyfield"
+    },
+    {
+        "name": "KEY : Bloody Foot Hills",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_bloodyfoothills"
+    },
+    {
+        "name": "drop:uniqueboots",
+        "type": "toggle",
+        "img": "images/items/drop:uniqueboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniqueboots"
+    },
+    {
+        "name": "drop:sethelm",
+        "type": "toggle",
+        "img": "images/items/drop:sethelm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:sethelm"
+    },
+    {
+        "name": "KEY : Duriel's Lair",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_durielslair"
+    },
+    {
+        "name": "Keys Gates Act 3 (Normal)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact3key(normal)"
+    },
+    {
+        "name": "drop:uniqueweapon",
+        "type": "toggle",
+        "img": "images/items/drop:uniqueweapon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniqueweapon"
+    },
+    {
+        "name": "KEY : Spider Forest",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_spiderforest"
+    },
+    {
+        "name": "rejuvenationpotions",
+        "type": "toggle",
+        "img": "images/items/rejuvenationpotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rejuvenationpotions"
+    },
+    {
+        "name": "KEY : Darkwood",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_darkwood"
+    },
+    {
+        "name": "10statpoints",
+        "type": "toggle",
+        "img": "images/items/10statpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "10statpoints"
+    },
+    {
+        "name": "drop:uniquegloves",
+        "type": "toggle",
+        "img": "images/items/drop:uniquegloves.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniquegloves"
+    },
+    {
+        "name": "skillpoint",
+        "type": "toggle",
+        "img": "images/items/skillpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skillpoint"
+    },
+    {
+        "name": "gold",
+        "type": "toggle",
+        "img": "images/items/gold.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gold"
+    },
+    {
+        "name": "Keys Gates Act 2 (Nightmare)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact2key(nightmare)"
+    },
+    {
+        "name": "greatermanapotions",
+        "type": "toggle",
+        "img": "images/items/greatermanapotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greatermanapotions"
+    },
+    {
+        "name": "drop:andarielloot",
+        "type": "toggle",
+        "img": "images/items/drop:andarielloot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:andarielloot"
+    },
+    {
+        "name": "randomrune(mid)",
+        "type": "toggle",
+        "img": "images/items/randomrune(mid).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "randomrune(mid)"
+    },
+    {
+        "name": "3statpoints",
+        "type": "toggle",
+        "img": "images/items/3statpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3statpoints"
+    },
+    {
+        "name": "KEY : Caverns",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_caverns"
+    },
+    {
+        "name": "KEY : Dry Hills",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_dryhills"
+    },
+    {
+        "name": "utilitypotions",
+        "type": "toggle",
+        "img": "images/items/utilitypotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "utilitypotions"
+    },
+    {
+        "name": "trap:monsters",
+        "type": "toggle",
+        "img": "images/items/trap:monsters.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:monsters"
+    },
+    {
+        "name": "Keys Gates Act 3 (Hell)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact3key(hell)"
+    },
+    {
+        "name": "experience",
+        "type": "toggle",
+        "img": "images/items/experience.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "experience"
+    },
+    {
+        "name": "trap:weaken",
+        "type": "toggle",
+        "img": "images/items/trap:weaken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:weaken"
+    },
+    {
+        "name": "trap:urngarden",
+        "type": "toggle",
+        "img": "images/items/trap:urngarden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:urngarden"
+    },
+    {
+        "name": "KEY : Burial Grounds",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_burialgrounds"
+    },
+    {
+        "name": "Keys Gates Act 1 (Nightmare)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact1key(nightmare)"
+    },
+    {
+        "name": "drop:setgloves",
+        "type": "toggle",
+        "img": "images/items/drop:setgloves.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setgloves"
+    },
+    {
+        "name": "2skillpoints",
+        "type": "toggle",
+        "img": "images/items/2skillpoints.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "2skillpoints"
+    },
+    {
+        "name": "trap:poison",
+        "type": "toggle",
+        "img": "images/items/trap:poison.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:poison"
+    },
+    {
+        "name": "KEY : Upper Kurast",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_upperkurast"
+    },
+    {
+        "name": "KEY : Worldstone Keep",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_worldstonekeep"
+    },
+    {
+        "name": "trap:slow",
+        "type": "toggle",
+        "img": "images/items/trap:slow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:slow"
+    },
+    {
+        "name": "drop:uniquejewelry",
+        "type": "toggle",
+        "img": "images/items/drop:uniquejewelry.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniquejewelry"
+    },
+    {
+        "name": "Keys Gates Act 3 (Nightmare)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact3key(nightmare)"
+    },
+    {
+        "name": "KEY : Cold Plains",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_coldplains"
+    },
+    {
+        "name": "magicarrow",
+        "type": "toggle",
+        "img": "images/items/magicarrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicarrow"
+    },
+    {
+        "name": "drop:uniquebelt",
+        "type": "toggle",
+        "img": "images/items/drop:uniquebelt.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniquebelt"
+    },
+    {
+        "name": "KEY : Highlands",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_highlands"
+    },
+    {
+        "name": "largecharm",
+        "type": "toggle",
+        "img": "images/items/largecharm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largecharm"
+    },
+    {
+        "name": "trap:barrelfield",
+        "type": "toggle",
+        "img": "images/items/trap:barrelfield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:barrelfield"
+    },
+    {
+        "name": "perfectgem",
+        "type": "toggle",
+        "img": "images/items/perfectgem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "perfectgem"
+    },
+    {
+        "name": "KEY : Far Oasis",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_faroasis"
+    },
+    {
+        "name": "drop:uniquearmor",
+        "type": "toggle",
+        "img": "images/items/drop:uniquearmor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:uniquearmor"
+    },
+    {
+        "name": "tomeoftownportal",
+        "type": "toggle",
+        "img": "images/items/tomeoftownportal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tomeoftownportal"
+    },
+    {
+        "name": "skeletonkeys",
+        "type": "toggle",
+        "img": "images/items/skeletonkeys.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skeletonkeys"
+    },
+    {
+        "name": "Keys Gates Act 4 (Nightmare)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact4key(nightmare)"
+    },
+    {
+        "name": "KEY : City Of The Damned",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_cityofthedamned"
+    },
+    {
+        "name": "throwingpotions",
+        "type": "toggle",
+        "img": "images/items/throwingpotions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "throwingpotions"
+    },
+    {
+        "name": "KEY : Tristram",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_tristram"
+    },
+    {
+        "name": "KEY : Travincal",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_travincal"
+    },
+    {
+        "name": "Keys Gates Act 4 (Normal)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact4key(normal)"
+    },
+    {
+        "name": "drop:randomcharm",
+        "type": "toggle",
+        "img": "images/items/drop:randomcharm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:randomcharm"
+    },
+    {
+        "name": "smallcharm",
+        "type": "toggle",
+        "img": "images/items/smallcharm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallcharm"
+    },
+    {
+        "name": "drop:setshield",
+        "type": "toggle",
+        "img": "images/items/drop:setshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setshield"
+    },
+    {
+        "name": "KEY : Palace",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_palace"
+    },
+    {
+        "name": "drop:setboots",
+        "type": "toggle",
+        "img": "images/items/drop:setboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setboots"
+    },
+    {
+        "name": "KEY : Jail & Cathedral",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_jail&cathedral"
+    },
+    {
+        "name": "Keys Gates Act 5 (Nightmare)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact5key(nightmare)"
+    },
+    {
+        "name": "Keys Gates Act 5 (Hell)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact5key(hell)"
+    },
+    {
+        "name": "randomjewel",
+        "type": "toggle",
+        "img": "images/items/randomjewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "randomjewel"
+    },
+    {
+        "name": "drop:baalloot",
+        "type": "toggle",
+        "img": "images/items/drop:baalloot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:baalloot"
+    },
+    {
+        "name": "KEY : Rocky Waste",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_rockywaste"
+    },
+    {
+        "name": "1statpoint",
+        "type": "toggle",
+        "img": "images/items/1statpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "1statpoint"
+    },
+    {
+        "name": "KEY : River Of Flame",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_riverofflame"
+    },
+    {
+        "name": "KEY : Outer Steppes",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_outersteppes"
+    },
+    {
+        "name": "Keys Gates Act 4 (Hell)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact4key(hell)"
+    },
+    {
+        "name": "drop:randomunique",
+        "type": "toggle",
+        "img": "images/items/drop:randomunique.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:randomunique"
+    },
+    {
+        "name": "bosstoken",
+        "type": "toggle",
+        "img": "images/items/bosstoken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosstoken"
+    },
+    {
+        "name": "Keys Gates Act 2 (Normal)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact2key(normal)"
+    },
+    {
+        "name": "Keys Gates Act 2 (Hell)",
+        "type": "consumable",
+        "img": "images/icon/key.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressiveact2key(hell)"
+    },
+    {
+        "name": "firearrow",
+        "type": "toggle",
+        "img": "images/items/firearrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firearrow"
+    },
+    {
+        "name": "KEY : Monastery",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_monastery"
+    },
+    {
+        "name": "drop:mephistoloot",
+        "type": "toggle",
+        "img": "images/items/drop:mephistoloot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:mephistoloot"
+    },
+    {
+        "name": "trap:falsetreasure",
+        "type": "toggle",
+        "img": "images/items/trap:falsetreasure.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trap:falsetreasure"
+    },
+    {
+        "name": "KEY : Chaos Sanctuary",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_chaossanctuary"
+    },
+    {
+        "name": "KEY : Blackmarsh",
+        "type": "toggle",
+        "img": "images/icon/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_blackmarsh"
+    },
+    {
+        "name": "resetpoint",
+        "type": "toggle",
+        "img": "images/items/resetpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "resetpoint"
+    },
+    {
+        "name": "drop:setarmor",
+        "type": "toggle",
+        "img": "images/items/drop:setarmor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drop:setarmor"
+    },
+    {
+        "name": "coldarrow",
+        "type": "toggle",
+        "img": "images/items/coldarrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coldarrow"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

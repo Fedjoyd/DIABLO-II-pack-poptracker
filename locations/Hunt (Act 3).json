@@ -1,0 +1,379 @@
+[
+    {
+        "name": "Hunt (Act 3)",
+        "chest_unopened_img": "/images/icon/boss_7E3A31.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$UseHuntingQuests"
+        ],
+        "children": [
+            {
+                "name": "Sszark the Burning",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1005,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Witch Doctor Endugu",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1105,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Stormtree",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1205,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Sarina",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1305,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Icehawk Riftwing",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1405,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Ismail Vilehand",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1505,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Geleb Flamefinger",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1605,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Bremm Sparkfist",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1705,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Toorc Icefist",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1005,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Wyand Voidbringer",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1105,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Maffer Dragonhand",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|3|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|3|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|3|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 3",
+                        "x": 1205,
+                        "y": 705
+                    }
+                ]
+            }
+        ]
+    }
+]

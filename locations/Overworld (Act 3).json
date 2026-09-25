@@ -1,0 +1,1101 @@
+[
+    {
+        "name": "Overworld (Act 3)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Spider Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Spider Forest/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Spider Forest/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Spider Forest/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Spider Forest/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Spider Forest/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Spider Forest/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Spider Forest/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Spider Forest/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Spider Forest/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1074,
+                        "y": 597
+                    }
+                ]
+            },
+            {
+                "name": "Great Marsh",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Great Marsh/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Great Marsh/"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Great Marsh/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Great Marsh/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Great Marsh/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Great Marsh/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 999,
+                        "y": 545
+                    }
+                ]
+            },
+            {
+                "name": "Flayer Jungle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Flayer Jungle/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Flayer Jungle/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Flayer Jungle/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Flayer Jungle/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Flayer Jungle/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Flayer Jungle/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Flayer Jungle/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Flayer Jungle/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Flayer Jungle/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 851,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "Lower Kurast",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Lower Kurast/"
+                    },
+                    {
+                        "name": "Stormtree",
+                        "ref": "Hunt (Act 3)/Stormtree/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Lower Kurast/"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Lower Kurast/Nightmare"
+                    },
+                    {
+                        "name": "Stormtree (Nightmare)",
+                        "ref": "Hunt (Act 3)/Stormtree/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Lower Kurast/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Lower Kurast/Hell"
+                    },
+                    {
+                        "name": "Stormtree (Hell)",
+                        "ref": "Hunt (Act 3)/Stormtree/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Lower Kurast/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 915,
+                        "y": 567
+                    }
+                ]
+            },
+            {
+                "name": "Kurast Bazaar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Kurast Bazaar/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Kurast Bazaar/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Kurast Bazaar/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Kurast Bazaar/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Kurast Bazaar/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Kurast Bazaar/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Kurast Bazaar/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Kurast Bazaar/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Kurast Bazaar/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 978,
+                        "y": 613
+                    }
+                ]
+            },
+            {
+                "name": "Upper Kurast",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Upper Kurast/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Upper Kurast/"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Upper Kurast/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Upper Kurast/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Upper Kurast/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Upper Kurast/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 781,
+                        "y": 668
+                    }
+                ]
+            },
+            {
+                "name": "Travincal",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Travincal/"
+                    },
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Travincal/"
+                    },
+                    {
+                        "name": "Ismail Vilehand",
+                        "ref": "Hunt (Act 3)/Ismail Vilehand/"
+                    },
+                    {
+                        "name": "Geleb Flamefinger",
+                        "ref": "Hunt (Act 3)/Geleb Flamefinger/"
+                    },
+                    {
+                        "name": "Toorc Icefist",
+                        "ref": "Hunt (Act 3)/Toorc Icefist/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Travincal/"
+                    },
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Travincal/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Travincal/Nightmare"
+                    },
+                    {
+                        "name": "Ismail Vilehand (Nightmare)",
+                        "ref": "Hunt (Act 3)/Ismail Vilehand/Nightmare"
+                    },
+                    {
+                        "name": "Geleb Flamefinger (Nightmare)",
+                        "ref": "Hunt (Act 3)/Geleb Flamefinger/Nightmare"
+                    },
+                    {
+                        "name": "Toorc Icefist (Nightmare)",
+                        "ref": "Hunt (Act 3)/Toorc Icefist/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Travincal/Nightmare"
+                    },
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Travincal/Hell"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Travincal/Hell"
+                    },
+                    {
+                        "name": "Ismail Vilehand (Hell)",
+                        "ref": "Hunt (Act 3)/Ismail Vilehand/Hell"
+                    },
+                    {
+                        "name": "Geleb Flamefinger (Hell)",
+                        "ref": "Hunt (Act 3)/Geleb Flamefinger/Hell"
+                    },
+                    {
+                        "name": "Toorc Icefist (Hell)",
+                        "ref": "Hunt (Act 3)/Toorc Icefist/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Travincal/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 801,
+                        "y": 820
+                    }
+                ]
+            },
+            {
+                "name": "Arachnid Lair",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Spider Cave/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Spider Cave/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Spider Cave/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1114,
+                        "y": 625
+                    }
+                ]
+            },
+            {
+                "name": "Flayer Dungeon Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L1/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 780,
+                        "y": 519
+                    }
+                ]
+            },
+            {
+                "name": "Flayer Dungeon Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 769,
+                        "y": 554
+                    }
+                ]
+            },
+            {
+                "name": "Flayer Dungeon Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Witch Doctor Endugu",
+                        "ref": "Hunt (Act 3)/Witch Doctor Endugu/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L3/"
+                    },
+                    {
+                        "name": "Witch Doctor Endugu (Nightmare)",
+                        "ref": "Hunt (Act 3)/Witch Doctor Endugu/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L3/Nightmare"
+                    },
+                    {
+                        "name": "Witch Doctor Endugu (Hell)",
+                        "ref": "Hunt (Act 3)/Witch Doctor Endugu/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Flayer Dungeon L3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 758,
+                        "y": 591
+                    }
+                ]
+            },
+            {
+                "name": "Kurast Sewers Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Icehawk Riftwing",
+                        "ref": "Hunt (Act 3)/Icehawk Riftwing/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Kurast Sewers L1/"
+                    },
+                    {
+                        "name": "Icehawk Riftwing (Nightmare)",
+                        "ref": "Hunt (Act 3)/Icehawk Riftwing/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Kurast Sewers L1/Nightmare"
+                    },
+                    {
+                        "name": "Icehawk Riftwing (Hell)",
+                        "ref": "Hunt (Act 3)/Icehawk Riftwing/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Kurast Sewers L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 795,
+                        "y": 619
+                    }
+                ]
+            },
+            {
+                "name": "Kurast Sewers Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Kurast Sewers L2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Kurast Sewers L2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Kurast Sewers L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 749,
+                        "y": 619
+                    }
+                ]
+            },
+            {
+                "name": "Durance Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Enter",
+                        "ref": "Enter (Act 3)/Durance of Hate/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Durance L1/"
+                    },
+                    
+                    {
+                        "name": "Enter (Nightmare)",
+                        "ref": "Enter (Act 3)/Durance of Hate/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Durance L1/Nightmare"
+                    },
+                    
+                    {
+                        "name": "Enter (Hell)",
+                        "ref": "Enter (Act 3)/Durance of Hate/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Durance L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 924,
+                        "y": 728
+                    }
+                ]
+            },
+            {
+                "name": "Durance Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waypoint",
+                        "ref": "Waypoint (Act 3)/Durance of Hate/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Durance L2/"
+                    },
+                    {
+                        "name": "Waypoint (Nightmare)",
+                        "ref": "Waypoint (Act 3)/Durance of Hate/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Durance L2/Nightmare"
+                    },
+                    {
+                        "name": "Waypoint (Hell)",
+                        "ref": "Waypoint (Act 3)/Durance of Hate/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Durance L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 994,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Durance Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bremm Sparkfist",
+                        "ref": "Hunt (Act 3)/Bremm Sparkfist/"
+                    },
+                    {
+                        "name": "Wyand Voidbringer",
+                        "ref": "Hunt (Act 3)/Wyand Voidbringer/"
+                    },
+                    {
+                        "name": "Maffer Dragonhand",
+                        "ref": "Hunt (Act 3)/Maffer Dragonhand/"
+                    },
+                    {
+                        "name": "Bremm Sparkfist (Nightmare)",
+                        "ref": "Hunt (Act 3)/Bremm Sparkfist/Nightmare"
+                    },
+                    {
+                        "name": "Wyand Voidbringer (Nightmare)",
+                        "ref": "Hunt (Act 3)/Wyand Voidbringer/Nightmare"
+                    },
+                    {
+                        "name": "Maffer Dragonhand (Nightmare)",
+                        "ref": "Hunt (Act 3)/Maffer Dragonhand/Nightmare"
+                    },
+                    {
+                        "name": "Bremm Sparkfist (Hell)",
+                        "ref": "Hunt (Act 3)/Bremm Sparkfist/Hell"
+                    },
+                    {
+                        "name": "Wyand Voidbringer (Hell)",
+                        "ref": "Hunt (Act 3)/Wyand Voidbringer/Hell"
+                    },
+                    {
+                        "name": "Maffer Dragonhand (Hell)",
+                        "ref": "Hunt (Act 3)/Maffer Dragonhand/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1056,
+                        "y": 663
+                    }
+                ]
+            },
+            {
+                "name": "Kurast Causeway",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Kurast Causeway/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Kurast Causeway/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Kurast Causeway/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 753,
+                        "y": 754
+                    }
+                ]
+            },
+            {
+                "name": "Spider Cavern",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sszark the Burning",
+                        "ref": "Hunt (Act 3)/Sszark the Burning/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Spider Cavern/"
+                    },
+                    {
+                        "name": "Sszark the Burning (Nightmare)",
+                        "ref": "Hunt (Act 3)/Sszark the Burning/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Spider Cavern/Nightmare"
+                    },
+                    {
+                        "name": "Sszark the Burning (Hell)",
+                        "ref": "Hunt (Act 3)/Sszark the Burning/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Spider Cavern/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1069,
+                        "y": 622
+                    }
+                ]
+            },
+            {
+                "name": "Swampy Pit Level 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Swampy Pit L1/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Swampy Pit L1/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Swampy Pit L1/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 844,
+                        "y": 546
+                    }
+                ]
+            },
+            {
+                "name": "Swampy Pit Level 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Swampy Pit L2/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Swampy Pit L2/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Swampy Pit L2/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 835,
+                        "y": 571
+                    }
+                ]
+            },
+            {
+                "name": "Swampy Pit Level 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Swampy Pit L3/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Swampy Pit L3/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Swampy Pit L3/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 827,
+                        "y": 596
+                    }
+                ]
+            },
+            {
+                "name": "Ruined Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sarina",
+                        "ref": "Hunt (Act 3)/Sarina/"
+                    },
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Ruined Temple/"
+                    },
+                    {
+                        "name": "Sarina (Nightmare)",
+                        "ref": "Hunt (Act 3)/Sarina/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Ruined Temple/Nightmare"
+                    },
+                    {
+                        "name": "Sarina (Hell)",
+                        "ref": "Hunt (Act 3)/Sarina/Hell"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Ruined Temple/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 986,
+                        "y": 589
+                    }
+                ]
+            },
+            {
+                "name": "Disused Fane",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Disused Fane/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Disused Fane/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Disused Fane/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1009,
+                        "y": 623
+                    }
+                ]
+            },
+            {
+                "name": "Forgotten Reliquary",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Forgotten Reliquary/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Forgotten Reliquary/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Forgotten Reliquary/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 733,
+                        "y": 668
+                    }
+                ]
+            },
+            {
+                "name": "Forgotten Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Forgotten Temple/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Forgotten Temple/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Forgotten Temple/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 797,
+                        "y": 693
+                    }
+                ]
+            },
+            {
+                "name": "Ruined Fane",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Ruined Fane/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Ruined Fane/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Ruined Fane/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 770,
+                        "y": 779
+                    }
+                ]
+            },
+            {
+                "name": "Disused Reliquary",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Clear",
+                        "ref": "Clear (Act 3)/Disused Reliquary/"
+                    },
+                    {
+                        "name": "Clear (Nightmare)",
+                        "ref": "Clear (Act 3)/Disused Reliquary/Nightmare"
+                    },
+                    {
+                        "name": "Clear (Hell)",
+                        "ref": "Clear (Act 3)/Disused Reliquary/Hell"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 778,
+                        "y": 753
+                    }
+                ]
+            }
+        ]
+    }
+]

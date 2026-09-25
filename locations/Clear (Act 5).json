@@ -1,0 +1,676 @@
+[
+    {
+        "name": "Clear (Act 5)",
+        "chest_unopened_img": "/images/icon/boss_B0392B.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$UseKillZoneQuests"
+        ],
+        "children": [
+            {
+                "name": "Bloody Foothills",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 105,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Frigid Highlands",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 205,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Arreat Plateau",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 305,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Crystalline Passage",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 405,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "The Ancients Way",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 505,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Icy Cellar",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 605,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Tundra",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 705,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Anguish",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 805,
+                        "y": 605
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Pain",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 105,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Halls of Vaught",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 205,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone L1",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 305,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone L2",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|3" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|3" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|3" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 405,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Worldstone L3",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 505,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Throne of Destruction",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|4" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|4" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|4" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 605,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Cellar of Pity",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|1" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|1" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|1" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 705,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Crystalized Cavern L2",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 805,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Echo Chamber",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [ "^$UnlockedGate|5|Normal|2" ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare, ^$UnlockedGate|5|Nightmare|2" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell, ^$UnlockedGate|5|Hell|2" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 105,
+                        "y": 805
+                    }
+                ]
+            },
+            {
+                "name": "Abaddon",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 205,
+                        "y": 805
+                    }
+                ]
+            },
+            {
+                "name": "Pit of Acheron",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 305,
+                        "y": 805
+                    }
+                ]
+            },
+            {
+                "name": "Infernal Pit",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nightmare",
+                        "access_rules": [ "^$CanAccessNightmare" ],
+                        "visibility_rules": [ "$IsNightmareEnabled" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hell",
+                        "access_rules": [ "^$CanAccessHell" ],
+                        "visibility_rules": [ "$IsHellEnabled" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 5",
+                        "x": 405,
+                        "y": 805
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Act 2 (Normal)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 105,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 2 (Nightmare)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessNightmare"
+        ],
+        "visibility_rules": [
+            "$IsNightmareEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 205,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 2 (Hell)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessHell"
+        ],
+        "visibility_rules": [
+            "$IsHellEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 305,
+                "y": 105
+            }
+        ]
+    },
+
+    {
+        "name": "Radaments Lair",
+        "chest_unopened_img": "/images/quests/a2q1.png",
+        "chest_opened_img": "/images/quests/a2q1_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 105,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "The Horadric Staff",
+        "chest_unopened_img": "/images/quests/a2q2.png",
+        "chest_opened_img": "/images/quests/a2q2_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasHuntMonster|2|Radament/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasHuntMonster|2|Radament/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasHuntMonster|2|Radament/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 205,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Tainted Sun",
+        "chest_unopened_img": "/images/quests/a2q3.png",
+        "chest_opened_img": "/images/quests/a2q3_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasEnterZone|2|Lost City/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasEnterZone|2|Lost City/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasEnterZone|2|Lost City/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 305,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Arcane Sanctuary",
+        "chest_unopened_img": "/images/quests/a2q4.png",
+        "chest_opened_img": "/images/quests/a2q4_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Horadric Staff/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Horadric Staff/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Horadric Staff/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 105,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "The Summoner",
+        "chest_unopened_img": "/images/quests/a2q5.png",
+        "chest_opened_img": "/images/quests/a2q5_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasEnterZone|2|Arcane Sanctuary/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasEnterZone|2|Arcane Sanctuary/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasEnterZone|2|Arcane Sanctuary/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 205,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "Seven Tombs",
+        "chest_unopened_img": "/images/quests/a2q6.png",
+        "chest_opened_img": "/images/quests/a2q6_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Sisters to the Slaughter/, ^$HasHuntMonster|2|The Summoner/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Sisters to the Slaughter/Nightmare, ^$HasHuntMonster|2|The Summoner/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Sisters to the Slaughter/Hell, ^$HasHuntMonster|2|The Summoner/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 2",
+                "x": 305,
+                "y": 405
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "name": "useZoneLocking",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/useZoneLocking.jpg",
+                "codes": "useZoneLocking",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Zone Locking"
+            },
+            {
+                "img": "images/settings/useZoneLockingRandomKey.jpg",
+                "codes": "useZoneLockingRandomKey",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Zone Locking with Random Key to other player"
+            }
+        ]
+    },
+    
+    {
+        "name": "useHuntingQuests",
+        "type": "toggle",
+        "img": "images/settings/useHuntingQuests.jpg",
+        "initial_active_state": true,
+        "codes": "useHuntingQuests"
+    },
+    {
+        "name": "useKillZoneQuests",
+        "type": "toggle",
+        "img": "images/settings/useKillZoneQuests.jpg",
+        "initial_active_state": true,
+        "codes": "useKillZoneQuests"
+    },
+    {
+        "name": "useExplorationQuests",
+        "type": "toggle",
+        "img": "images/settings/useExplorationQuests.jpg",
+        "initial_active_state": true,
+        "codes": "useExplorationQuests"
+    },
+    {
+        "name": "useWaypointQuests",
+        "type": "toggle",
+        "img": "images/settings/useWaypointQuests.jpg",
+        "initial_active_state": true,
+        "codes": "useWaypointQuests"
+    },
+    {
+        "name": "useLevelMilestoneQuests",
+        "type": "toggle",
+        "img": "images/settings/useLevelMilestoneQuests.jpg",
+        "initial_active_state": true,
+        "codes": "useLevelMilestoneQuests"
+    },
+
+    {
+        "name": "useShrines",
+        "type": "toggle",
+        "img": "images/settings/useShrines.jpg",
+        "initial_active_state": false,
+        "codes": "useShrines"
+    },
+    {
+        "name": "useUrns",
+        "type": "toggle",
+        "img": "images/settings/useUrns.jpg",
+        "initial_active_state": false,
+        "codes": "useUrns"
+    },
+    {
+        "name": "useBarrels",
+        "type": "toggle",
+        "img": "images/settings/useBarrels.jpg",
+        "initial_active_state": false,
+        "codes": "useBarrels"
+    },
+    {
+        "name": "useChests",
+        "type": "toggle",
+        "img": "images/settings/useChests.jpg",
+        "initial_active_state": false,
+        "codes": "useChests"
+    },
+    {
+        "name": "useSetPickups",
+        "type": "toggle",
+        "img": "images/settings/useSetPickups.jpg",
+        "initial_active_state": false,
+        "codes": "useSetPickups"
+    },
+    {
+        "name": "useGoldMilestones",
+        "type": "toggle",
+        "img": "images/settings/useGoldMilestones.jpg",
+        "initial_active_state": false,
+        "codes": "useGoldMilestones"
+    },
+    {
+        "name": "useCowLevel",
+        "type": "toggle",
+        "img": "images/settings/useCowLevel.jpg",
+        "initial_active_state": false,
+        "codes": "useCowLevel"
+    },
+    {
+        "name": "useMercMilestones",
+        "type": "toggle",
+        "img": "images/settings/useMercMilestones.jpg",
+        "initial_active_state": false,
+        "codes": "useMercMilestones"
+    },
+    {
+        "name": "useHellforgeAndHighRunes",
+        "type": "toggle",
+        "img": "images/settings/useHellforgeAndHighRunes.jpg",
+        "initial_active_state": false,
+        "codes": "useHellforgeAndHighRunes"
+    },
+    {
+        "name": "useNPCDialogue",
+        "type": "toggle",
+        "img": "images/settings/useNPCDialogue.jpg",
+        "initial_active_state": false,
+        "codes": "useNPCDialogue"
+    },
+    {
+        "name": "useRunewordCrafting",
+        "type": "toggle",
+        "img": "images/settings/useRunewordCrafting.jpg",
+        "initial_active_state": false,
+        "codes": "useRunewordCrafting"
+    },
+    {
+        "name": "useCubeRecipes",
+        "type": "toggle",
+        "img": "images/settings/useCubeRecipes.jpg",
+        "initial_active_state": false,
+        "codes": "useCubeRecipes"
+    },
+
+    {
+        "name": "optionGoalFullNormal",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/optionGoalFullNormal.jpg",
+                "codes": "optionGoalFullNormal",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Goal Full Normal"
+            },
+            {
+                "img": "images/settings/optionGoalFullNightmare.jpg",
+                "codes": "optionGoalFullNightmare",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Goal Full Nightmare"
+            },
+            {
+                "img": "images/settings/optionGoalFullHell.jpg",
+                "codes": "optionGoalFullHell",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Goal Full Hell"
+            },
+            {
+                "img": "images/settings/optionGoalGoldCollection.jpg",
+                "codes": "optionGoalGoldCollection",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Goal Gold Collection"
+            },
+            {
+                "img": "images/settings/optionGoalCustom.jpg",
+                "codes": "optionGoalCustom",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Goal Custom"
+            }
+        ]
+    }
+]

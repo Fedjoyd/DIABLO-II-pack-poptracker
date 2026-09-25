@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Act 4 (Normal)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 105,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 4 (Nightmare)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessNightmare"
+        ],
+        "visibility_rules": [
+            "$IsNightmareEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 205,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 4 (Hell)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessHell"
+        ],
+        "visibility_rules": [
+            "$IsHellEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 305,
+                "y": 105
+            }
+        ]
+    },
+    
+    {
+        "name": "The Fallen Angel",
+        "chest_unopened_img": "/images/quests/a4q1.png",
+        "chest_opened_img": "/images/quests/a4q1_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Guardian/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 105,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Hells Forge",
+        "chest_unopened_img": "/images/quests/a4q2.png",
+        "chest_opened_img": "/images/quests/a4q2_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Guardian/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 205,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Terrors End",
+        "chest_unopened_img": "/images/quests/a4q3.png",
+        "chest_opened_img": "/images/quests/a4q3_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Guardian/, ^$HasEnterZone|4|Chaos Sanctuary/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Guardian/Nightmare, ^$HasEnterZone|4|Chaos Sanctuary/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Guardian/Hell, ^$HasEnterZone|4|Chaos Sanctuary/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 4",
+                "x": 305,
+                "y": 305
+            }
+        ]
+    }
+]

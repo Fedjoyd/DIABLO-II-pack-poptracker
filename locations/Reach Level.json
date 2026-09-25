@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Reach Level",
+        "chest_unopened_img": "/images/icon/levelup_E8842A_c.png",
+        "chest_opened_img": "/images/icon/levelup_E8842A.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$UseLevelMilestoneQuests"
+        ],
+        "sections": [
+            {
+                "name": "5",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "10",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "15",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "20",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "30",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "35 (Nightmare)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "40 (Nightmare)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "45 (Nightmare)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "50 (Nightmare)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "55 (Nightmare)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "60 (Hell)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "65 (Hell)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "70 (Hell)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "75 (Hell)",
+                "access_rules": [],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Reach Level",
+                "x": 100,
+                "y": 100
+            }
+        ]
+    }
+]

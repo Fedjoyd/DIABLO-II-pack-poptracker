@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Act 3 (Normal)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "visibility_rules": [
+            "$IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 105,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 3 (Nightmare)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessNightmare"
+        ],
+        "visibility_rules": [
+            "$IsNightmareEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 205,
+                "y": 105
+            }
+        ]
+    },
+    {
+        "name": "Act 3 (Hell)",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "^$CanAccessHell"
+        ],
+        "visibility_rules": [
+            "$IsHellEnabled, $IsZoneLocked"
+        ],
+        "sections": [
+            {
+                "name": "Gate 1 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 2 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 3 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gate 4 Cleared",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 305,
+                "y": 105
+            }
+        ]
+    },
+
+    {
+        "name": "The Golden Bird",
+        "chest_unopened_img": "/images/quests/a3q1.png",
+        "chest_opened_img": "/images/quests/a3q1_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Seven Tombs/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 105,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Blade of Old Religion",
+        "chest_unopened_img": "/images/quests/a3q2.png",
+        "chest_opened_img": "/images/quests/a3q2_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Golden Bird/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Golden Bird/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Golden Bird/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 205,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Khalims Will",
+        "chest_unopened_img": "/images/quests/a3q3.png",
+        "chest_opened_img": "/images/quests/a3q3_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|The Golden Bird/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|The Golden Bird/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|The Golden Bird/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 305,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "name": "Lam Esens Tome",
+        "chest_unopened_img": "/images/quests/a3q4.png",
+        "chest_opened_img": "/images/quests/a3q4_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Seven Tombs/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 105,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "The Blackened Temple",
+        "chest_unopened_img": "/images/quests/a3q5.png",
+        "chest_opened_img": "/images/quests/a3q5_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Seven Tombs/, ^$HasEnterZone|3|Travincal/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Seven Tombs/Nightmare, ^$HasEnterZone|3|Travincal/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Seven Tombs/Hell, ^$HasEnterZone|3|Travincal/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 205,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "name": "The Guardian",
+        "chest_unopened_img": "/images/quests/a3q6.png",
+        "chest_opened_img": "/images/quests/a3q6_d.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [ "^$HasDone|Khalims Will/" ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare",
+                "access_rules": [ "^$CanAccessNightmare, ^$HasDone|Khalims Will/Nightmare" ],
+                "visibility_rules": [ "$IsNightmareEnabled" ],
+                "item_count": 1
+            },
+            {
+                "name": "Hell",
+                "access_rules": [ "^$CanAccessHell, ^$HasDone|Khalims Will/Hell" ],
+                "visibility_rules": [ "$IsHellEnabled" ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Act 3",
+                "x": 305,
+                "y": 405
+            }
+        ]
+    }
+]
