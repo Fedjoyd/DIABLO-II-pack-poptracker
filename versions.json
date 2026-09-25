@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.0.0",
+			"download_url": "https://github.com/Fedjoyd/DIABLO-II-pack-poptracker/releases/download/V1.0.0/DIABLO-II-Pack.zip",
+			"sha256": "3685f21a2d4f06bef618a126e47d1890db8b7446ef5222295ef6469138675b8b",
+			"changelog": [
+				"Diablo 2 archipelago tracker with Clean file !!"
+			]
+		},
+		{
 			"package_version": "0.9.4",
 			"download_url": "https://github.com/Fedjoyd/DIABLO-II-pack-poptracker/releases/download/v0.9.4/DIABLO-II-Pack.zip",
 			"sha256": "26a7cd37b31c22a31caa4ea0e333297fc925e3a8674243a3d15cd51270650b2c",
