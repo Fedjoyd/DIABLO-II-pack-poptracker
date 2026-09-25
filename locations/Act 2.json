@@ -137,8 +137,8 @@
 
     {
         "name": "Radaments Lair",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q1.png",
+        "chest_opened_img": "/images/quests/a2q1_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -173,8 +173,8 @@
     },
     {
         "name": "The Horadric Staff",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q2.png",
+        "chest_opened_img": "/images/quests/a2q2_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -209,8 +209,8 @@
     },
     {
         "name": "Tainted Sun",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q3.png",
+        "chest_opened_img": "/images/quests/a2q3_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -245,8 +245,8 @@
     },
     {
         "name": "Arcane Sanctuary",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q4.png",
+        "chest_opened_img": "/images/quests/a2q4_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -281,8 +281,8 @@
     },
     {
         "name": "The Summoner",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q5.png",
+        "chest_opened_img": "/images/quests/a2q5_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -317,8 +317,8 @@
     },
     {
         "name": "Seven Tombs",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a2q6.png",
+        "chest_opened_img": "/images/quests/a2q6_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "

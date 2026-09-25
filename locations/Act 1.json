@@ -137,8 +137,8 @@
     
     {
         "name": "Den of Evil",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q1.png",
+        "chest_opened_img": "/images/quests/a1q1_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -173,8 +173,8 @@
     },
     {
         "name": "Sisters Burial Grounds",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q2.png",
+        "chest_opened_img": "/images/quests/a1q2_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -209,8 +209,8 @@
     },
     {
         "name": "The Search for Cain",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q3.png",
+        "chest_opened_img": "/images/quests/a1q3_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -245,8 +245,8 @@
     },
     {
         "name": "The Forgotten Tower",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q4.png",
+        "chest_opened_img": "/images/quests/a1q4_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -281,8 +281,8 @@
     },
     {
         "name": "Tools of the Trade",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q5.png",
+        "chest_opened_img": "/images/quests/a1q5_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -317,8 +317,8 @@
     },
     {
         "name": "Sisters to the Slaughter",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/quests/a1q6.png",
+        "chest_opened_img": "/images/quests/a1q6_d.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
