@@ -1,8 +1,8 @@
 [
     {
         "name": "Enter (Act 1)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/portal_55A863_c.png",
+        "chest_opened_img": "/images/icon/portal_55A863.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -13,9 +13,6 @@
         "children": [
             {
                 "name": "Blood Moor",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -49,9 +46,6 @@
             },
             {
                 "name": "Cold Plains",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -85,9 +79,6 @@
             },
             {
                 "name": "Stony Field",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -121,9 +112,6 @@
             },
             {
                 "name": "Dark Wood",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -157,9 +145,6 @@
             },
             {
                 "name": "Black Marsh",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -193,9 +178,6 @@
             },
             {
                 "name": "Tamoe Highland",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -229,9 +211,6 @@
             },
             {
                 "name": "Den of Evil",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -265,9 +244,6 @@
             },
             {
                 "name": "Tristram",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -301,9 +277,6 @@
             },
             {
                 "name": "Catacombs",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -337,9 +310,6 @@
             },
             {
                 "name": "Tower Cellar",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],

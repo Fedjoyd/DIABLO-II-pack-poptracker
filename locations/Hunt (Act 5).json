@@ -1,8 +1,8 @@
 [
     {
         "name": "Hunt (Act 5)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/boss_7E3A31.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -13,9 +13,6 @@
         "children": [
             {
                 "name": "Shenk the Overseer",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -49,9 +46,6 @@
             },
             {
                 "name": "Dac Farren",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -85,9 +79,6 @@
             },
             {
                 "name": "Bonesaw Breaker",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -121,9 +112,6 @@
             },
             {
                 "name": "Eyeback Unleashed",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -157,9 +145,6 @@
             },
             {
                 "name": "Thresh Socket",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -193,9 +178,6 @@
             },
             {
                 "name": "Pindleskin",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -229,9 +211,6 @@
             },
             {
                 "name": "Snapchip Shatter",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -265,9 +244,6 @@
             },
             {
                 "name": "Frozenstein",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],

@@ -1,8 +1,8 @@
 [
     {
         "name": "Waypoint (Act 2)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/waypoint_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/waypoint_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -13,9 +13,6 @@
         "children": [
             {
                 "name": "Sewers",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -49,9 +46,6 @@
             },
             {
                 "name": "Dry Hills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -85,9 +79,6 @@
             },
             {
                 "name": "Halls of the Dead",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -121,9 +112,6 @@
             },
             {
                 "name": "Far Oasis",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -157,9 +145,6 @@
             },
             {
                 "name": "Lost City",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -193,9 +178,6 @@
             },
             {
                 "name": "Palace Cellar",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -229,9 +211,6 @@
             },
             {
                 "name": "Arcane Sanctuary",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -265,9 +244,6 @@
             },
             {
                 "name": "Canyon of the Magi",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],

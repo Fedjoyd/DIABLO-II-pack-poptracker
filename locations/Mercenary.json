@@ -1,8 +1,8 @@
 [
     {
         "name": "First Mercenary Hired",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/merc_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/merc_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -28,8 +28,8 @@
     },
     {
         "name": "Merc Resurrects",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/merc_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/merc_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -73,8 +73,8 @@
     },
     {
         "name": "Mercenary Reaches Level 30",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/merc_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/merc_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "

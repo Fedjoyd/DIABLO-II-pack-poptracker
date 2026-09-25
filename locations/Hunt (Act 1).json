@@ -1,8 +1,8 @@
 [
     {
         "name": "Hunt (Act 1)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/boss_7E3A31.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -13,9 +13,6 @@
         "children": [
             {
                 "name": "Corpsefire",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -49,9 +46,6 @@
             },
             {
                 "name": "Bishibosh",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -85,9 +79,6 @@
             },
             {
                 "name": "Bonebreaker",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -121,9 +112,6 @@
             },
             {
                 "name": "Coldcrow",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -157,9 +145,6 @@
             },
             {
                 "name": "Rakanishu",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -193,9 +178,6 @@
             },
             {
                 "name": "Treehead WoodFist",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -229,9 +211,6 @@
             },
             {
                 "name": "Griswold",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -265,9 +244,6 @@
             },
             {
                 "name": "The Countess",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -301,9 +277,6 @@
             },
             {
                 "name": "Pitspawn Fouldog",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -337,9 +310,6 @@
             },
             {
                 "name": "Boneash",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -373,9 +343,6 @@
             },
             {
                 "name": "The Smith",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],

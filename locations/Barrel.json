@@ -1,8 +1,8 @@
 [
     {
         "name": "Barrel (Normal)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/barrel_B0392B_c.png",
+        "chest_opened_img": "/images/icon/barrel_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -616,8 +616,8 @@
     },
     {
         "name": "Barrel (Nightmare)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/barrel_B0392B_c.png",
+        "chest_opened_img": "/images/icon/barrel_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessNightmare"
@@ -1231,8 +1231,8 @@
     },
     {
         "name": "Barrel (Hell)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/barrel_B0392B_c.png",
+        "chest_opened_img": "/images/icon/barrel_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessHell"

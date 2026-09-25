@@ -1,8 +1,8 @@
 [
     {
         "name": "Hunt (Act 3)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/boss_7E3A31.png",
+        "chest_opened_img": "/images/icon/boss_B0392B_o.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -13,9 +13,6 @@
         "children": [
             {
                 "name": "Sszark the Burning",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -49,9 +46,6 @@
             },
             {
                 "name": "Witch Doctor Endugu",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -85,9 +79,6 @@
             },
             {
                 "name": "Stormtree",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -121,9 +112,6 @@
             },
             {
                 "name": "Sarina",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -157,9 +145,6 @@
             },
             {
                 "name": "Icehawk Riftwing",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -193,9 +178,6 @@
             },
             {
                 "name": "Ismail Vilehand",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -229,9 +211,6 @@
             },
             {
                 "name": "Geleb Flamefinger",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -265,9 +244,6 @@
             },
             {
                 "name": "Bremm Sparkfist",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -301,9 +277,6 @@
             },
             {
                 "name": "Toorc Icefist",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -337,9 +310,6 @@
             },
             {
                 "name": "Wyand Voidbringer",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
@@ -373,9 +343,6 @@
             },
             {
                 "name": "Maffer Dragonhand",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],

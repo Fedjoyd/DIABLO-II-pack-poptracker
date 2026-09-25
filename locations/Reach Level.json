@@ -1,8 +1,8 @@
 [
     {
         "name": "Reach Level",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/levelup_E8842A_c.png",
+        "chest_opened_img": "/images/icon/levelup_E8842A.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "

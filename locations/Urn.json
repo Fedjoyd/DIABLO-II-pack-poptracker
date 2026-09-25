@@ -1,8 +1,8 @@
 [
     {
         "name": "Urn (Normal)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/urn_9A6BB0_c.png",
+        "chest_opened_img": "/images/icon/urn_9A6BB0.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -622,8 +622,8 @@
     },
     {
         "name": "Urn (Nightmare)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/urn_9A6BB0_c.png",
+        "chest_opened_img": "/images/icon/urn_9A6BB0.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessNightmare"
@@ -1243,8 +1243,8 @@
     },
     {
         "name": "Urn (Hell)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/urn_9A6BB0_c.png",
+        "chest_opened_img": "/images/icon/urn_9A6BB0.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessHell"

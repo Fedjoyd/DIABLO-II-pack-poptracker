@@ -1,8 +1,8 @@
 [
     {
         "name": "Hellforge Used",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/anvil_B0392B_c.png",
+        "chest_opened_img": "/images/icon/anvil_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -41,8 +41,8 @@
     
     {
         "name": "High Rune Jah-Zod",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/anvil_B0392B_c.png",
+        "chest_opened_img": "/images/icon/anvil_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -80,8 +80,8 @@
     },
     {
         "name": "High Rune Pul-Gul",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/anvil_B0392B_c.png",
+        "chest_opened_img": "/images/icon/anvil_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -119,8 +119,8 @@
     },
     {
         "name": "High Rune Vex-Ber",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/anvil_B0392B_c.png",
+        "chest_opened_img": "/images/icon/anvil_B0392B.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "

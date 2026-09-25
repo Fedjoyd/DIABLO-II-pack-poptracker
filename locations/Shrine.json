@@ -1,8 +1,8 @@
 [
     {
         "name": "Shrine (Normal)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/shrine_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/shrine_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -322,8 +322,8 @@
     },
     {
         "name": "Shrine (Nightmare)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/shrine_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/shrine_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessNightmare"
@@ -643,8 +643,8 @@
     },
     {
         "name": "Shrine (Hell)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/shrine_46A6DC_c.png",
+        "chest_opened_img": "/images/icon/shrine_46A6DC.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessHell"

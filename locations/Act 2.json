@@ -1,8 +1,8 @@
 [
     {
         "name": "Act 2 (Normal)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
@@ -46,8 +46,8 @@
     },
     {
         "name": "Act 2 (Nightmare)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessNightmare"
@@ -91,8 +91,8 @@
     },
     {
         "name": "Act 2 (Hell)",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/icon/GATE_icon_closed.png",
+        "chest_opened_img": "/images/icon/GATE_icon_open.png",
         "overlay_background": "#000000",
         "access_rules": [
             "^$CanAccessHell"
